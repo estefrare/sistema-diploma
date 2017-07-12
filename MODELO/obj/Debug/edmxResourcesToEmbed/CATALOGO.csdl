@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="MODELO" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="CATALOGO" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="USUARIOS" EntityType="MODELO.USUARIO" />
+    <EntitySet Name="GRUPOS" EntityType="MODELO.GRUPO" />
+    <EntitySet Name="FORMULARIOS" EntityType="MODELO.FORMULARIO" />
+    <EntitySet Name="ACCIONES" EntityType="MODELO.ACCION" />
+    <EntitySet Name="MODULOS" EntityType="MODELO.MODULO" />
+    <EntitySet Name="SUBMODULOS" EntityType="MODELO.SUBMODULO" />
+    <AssociationSet Name="MODULOSUBMODULO" Association="MODELO.MODULOSUBMODULO">
+      <End Role="MODULO" EntitySet="MODULOS" />
+      <End Role="SUBMODULO" EntitySet="SUBMODULOS" />
+    </AssociationSet>
+    <AssociationSet Name="SUBMODULOFORMULARIO" Association="MODELO.SUBMODULOFORMULARIO">
+      <End Role="SUBMODULO" EntitySet="SUBMODULOS" />
+      <End Role="FORMULARIO" EntitySet="FORMULARIOS" />
+    </AssociationSet>
+    <AssociationSet Name="FORMULARIOACCION" Association="MODELO.FORMULARIOACCION">
+      <End Role="FORMULARIO" EntitySet="FORMULARIOS" />
+      <End Role="ACCION" EntitySet="ACCIONES" />
+    </AssociationSet>
+    <AssociationSet Name="USUARIOGRUPO" Association="MODELO.USUARIOGRUPO">
+      <End Role="USUARIO" EntitySet="USUARIOS" />
+      <End Role="GRUPO" EntitySet="GRUPOS" />
+    </AssociationSet>
+    <AssociationSet Name="GRUPOACCION" Association="MODELO.GRUPOACCION">
+      <End Role="GRUPO" EntitySet="GRUPOS" />
+      <End Role="ACCION" EntitySet="ACCIONES" />
+    </AssociationSet>
+    <EntitySet Name="PARAMETROS" EntityType="MODELO.PARAMETRO" />
+    <EntitySet Name="PLANES" EntityType="MODELO.PLAN" />
+    <EntitySet Name="SERVICIOS" EntityType="MODELO.SERVICIO" />
+    <EntitySet Name="DIAS_NO_LABORABLES_MEDICOS" EntityType="MODELO.DIA_NO_LABORABLE_MEDICO" />
+    <EntitySet Name="HORARIOS_MEDICOS" EntityType="MODELO.HORARIO_MEDICO" />
+    <EntitySet Name="DIAS_EMPRESAS" EntityType="MODELO.DIAS_EMPRESA" />
+    <EntitySet Name="DIAS_NO_LABORABLESS" EntityType="MODELO.DIAS_NO_LABORABLES" />
+    <EntitySet Name="MEDICOS" EntityType="MODELO.MEDICO" />
+    <EntitySet Name="AFILIADOS" EntityType="MODELO.AFILIADO" />
+    <EntitySet Name="TURNOS" EntityType="MODELO.TURNO" />
+    <EntitySet Name="DATOS_EMPRESAS" EntityType="MODELO.DATOS_EMPRESA" />
+    <AssociationSet Name="PLANSERVICIO" Association="MODELO.PLANSERVICIO">
+      <End Role="PLAN" EntitySet="PLANES" />
+      <End Role="SERVICIO" EntitySet="SERVICIOS" />
+    </AssociationSet>
+    <AssociationSet Name="PLANAFILIADO" Association="MODELO.PLANAFILIADO">
+      <End Role="PLAN" EntitySet="PLANES" />
+      <End Role="AFILIADO" EntitySet="AFILIADOS" />
+    </AssociationSet>
+    <AssociationSet Name="MEDICODIA_NO_LABORABLE_MEDICO" Association="MODELO.MEDICODIA_NO_LABORABLE_MEDICO">
+      <End Role="MEDICO" EntitySet="MEDICOS" />
+      <End Role="DIA_NO_LABORABLE_MEDICO" EntitySet="DIAS_NO_LABORABLES_MEDICOS" />
+    </AssociationSet>
+    <AssociationSet Name="MEDICOHORARIO_MEDICO" Association="MODELO.MEDICOHORARIO_MEDICO">
+      <End Role="MEDICO" EntitySet="MEDICOS" />
+      <End Role="HORARIO_MEDICO" EntitySet="HORARIOS_MEDICOS" />
+    </AssociationSet>
+    <AssociationSet Name="DIAS_EMPRESADATOS_EMPRESA" Association="MODELO.DIAS_EMPRESADATOS_EMPRESA">
+      <End Role="DIAS_EMPRESA" EntitySet="DIAS_EMPRESAS" />
+      <End Role="DATOS_EMPRESA" EntitySet="DATOS_EMPRESAS" />
+    </AssociationSet>
+    <AssociationSet Name="DIAS_NO_LABORABLESDATOS_EMPRESA" Association="MODELO.DIAS_NO_LABORABLESDATOS_EMPRESA">
+      <End Role="DIAS_NO_LABORABLES" EntitySet="DIAS_NO_LABORABLESS" />
+      <End Role="DATOS_EMPRESA" EntitySet="DATOS_EMPRESAS" />
+    </AssociationSet>
+    <AssociationSet Name="MEDICOTURNO" Association="MODELO.MEDICOTURNO">
+      <End Role="MEDICO" EntitySet="MEDICOS" />
+      <End Role="TURNO" EntitySet="TURNOS" />
+    </AssociationSet>
+    <AssociationSet Name="AFILIADOTURNO" Association="MODELO.AFILIADOTURNO">
+      <End Role="AFILIADO" EntitySet="AFILIADOS" />
+      <End Role="TURNO" EntitySet="TURNOS" />
+    </AssociationSet>
+    <EntitySet Name="AUDITORIAs" EntityType="MODELO.AUDITORIA" />
+    <EntitySet Name="Auditoria_Turnos" EntityType="MODELO.Auditoria_Turnos" />
+    <EntitySet Name="DEUDAS" EntityType="MODELO.DEUDA" />
+    <AssociationSet Name="AFILIADODEUDAS" Association="MODELO.AFILIADODEUDAS">
+      <End Role="AFILIADO" EntitySet="AFILIADOS" />
+      <End Role="DEUDAS" EntitySet="DEUDAS" />
+    </AssociationSet>
+    <EntitySet Name="FACTURAS" EntityType="MODELO.FACTURA" />
+    <AssociationSet Name="AFILIADOFACTURA" Association="MODELO.AFILIADOFACTURA">
+      <End Role="AFILIADO" EntitySet="AFILIADOS" />
+      <End Role="FACTURA" EntitySet="FACTURAS" />
+    </AssociationSet>
+    <EntitySet Name="DETALLES_FACTURAS" EntityType="MODELO.DETALLE_FACTURA" />
+    <AssociationSet Name="FACTURADETALLE_FACTURA" Association="MODELO.FACTURADETALLE_FACTURA">
+      <End Role="FACTURA" EntitySet="FACTURAS" />
+      <End Role="DETALLE_FACTURA" EntitySet="DETALLES_FACTURAS" />
+    </AssociationSet>
+    <EntitySet Name="PRODUCTOS" EntityType="MODELO.PRODUCTO" />
+    <AssociationSet Name="PRODUCTODETALLE_FACTURA" Association="MODELO.PRODUCTODETALLE_FACTURA">
+      <End Role="PRODUCTO" EntitySet="PRODUCTOS" />
+      <End Role="DETALLE_FACTURA" EntitySet="DETALLES_FACTURAS" />
+    </AssociationSet>
+    <EntitySet Name="TARJETAS" EntityType="MODELO.TARJETA" />
+    <AssociationSet Name="AFILIADOTARJETA" Association="MODELO.AFILIADOTARJETA">
+      <End Role="AFILIADO" EntitySet="AFILIADOS" />
+      <End Role="TARJETA" EntitySet="TARJETAS" />
+    </AssociationSet>
+    <EntitySet Name="RECIBOS" EntityType="MODELO.RECIBO" />
+    <EntitySet Name="DETALLES_RECIBOS" EntityType="MODELO.DETALLE_RECIBO" />
+    <AssociationSet Name="DETALLE_RECIBODEUDA" Association="MODELO.DETALLE_RECIBODEUDA">
+      <End Role="DETALLE_RECIBO" EntitySet="DETALLES_RECIBOS" />
+      <End Role="DEUDA" EntitySet="DEUDAS" />
+    </AssociationSet>
+    <AssociationSet Name="RECIBODETALLE_RECIBO" Association="MODELO.RECIBODETALLE_RECIBO">
+      <End Role="RECIBO" EntitySet="RECIBOS" />
+      <End Role="DETALLE_RECIBO" EntitySet="DETALLES_RECIBOS" />
+    </AssociationSet>
+    <AssociationSet Name="AFILIADORECIBO" Association="MODELO.AFILIADORECIBO">
+      <End Role="AFILIADO" EntitySet="AFILIADOS" />
+      <End Role="RECIBO" EntitySet="RECIBOS" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="CODIGO" />
+    </Key>
+    <Property Name="CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NOMBRE_USUARIO" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="NOMBRE" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CLAVE" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="EMAIL" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="TELEFONO" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ACTIVO" Type="Boolean" Nullable="false" />
+    <Property Name="RESETEAR_CLAVE" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="GRUPO" Relationship="MODELO.USUARIOGRUPO" FromRole="USUARIO" ToRole="GRUPO" />
+    <Property Name="IMAGEN" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GRUPO">
+    <Key>
+      <PropertyRef Name="CODIGO" />
+    </Key>
+    <Property Name="CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPCION" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ACTIVO" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="USUARIO" Relationship="MODELO.USUARIOGRUPO" FromRole="GRUPO" ToRole="USUARIO" />
+    <NavigationProperty Name="ACCION" Relationship="MODELO.GRUPOACCION" FromRole="GRUPO" ToRole="ACCION" />
+  </EntityType>
+  <EntityType Name="FORMULARIO">
+    <Key>
+      <PropertyRef Name="CODIGO" />
+    </Key>
+    <Property Name="CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPCION" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CLASE" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ACTIVO" Type="Boolean" Nullable="false" />
+    <Property Name="MENU" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="SUBMODULO" Relationship="MODELO.SUBMODULOFORMULARIO" FromRole="FORMULARIO" ToRole="SUBMODULO" />
+    <NavigationProperty Name="ACCION" Relationship="MODELO.FORMULARIOACCION" FromRole="FORMULARIO" ToRole="ACCION" />
+  </EntityType>
+  <EntityType Name="ACCION">
+    <Key>
+      <PropertyRef Name="CODIGO" />
+    </Key>
+    <Property Name="CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPCION" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CONTROL" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="FORMULARIO" Relationship="MODELO.FORMULARIOACCION" FromRole="ACCION" ToRole="FORMULARIO" />
+    <NavigationProperty Name="GRUPO" Relationship="MODELO.GRUPOACCION" FromRole="ACCION" ToRole="GRUPO" />
+  </EntityType>
+  <EntityType Name="MODULO">
+    <Key>
+      <PropertyRef Name="CODIGO" />
+    </Key>
+    <Property Name="CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPCION" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="SUBMODULO" Relationship="MODELO.MODULOSUBMODULO" FromRole="MODULO" ToRole="SUBMODULO" />
+  </EntityType>
+  <EntityType Name="SUBMODULO">
+    <Key>
+      <PropertyRef Name="CODIGO" />
+    </Key>
+    <Property Name="CODIGO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPCION" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="MODULO" Relationship="MODELO.MODULOSUBMODULO" FromRole="SUBMODULO" ToRole="MODULO" />
+    <NavigationProperty Name="FORMULARIO" Relationship="MODELO.SUBMODULOFORMULARIO" FromRole="SUBMODULO" ToRole="FORMULARIO" />
+  </EntityType>
+  <Association Name="MODULOSUBMODULO">
+    <End Type="MODELO.MODULO" Role="MODULO" Multiplicity="1" />
+    <End Type="MODELO.SUBMODULO" Role="SUBMODULO" Multiplicity="*" />
+  </Association>
+  <Association Name="SUBMODULOFORMULARIO">
+    <End Type="MODELO.SUBMODULO" Role="SUBMODULO" Multiplicity="1" />
+    <End Type="MODELO.FORMULARIO" Role="FORMULARIO" Multiplicity="*" />
+  </Association>
+  <Association Name="FORMULARIOACCION">
+    <End Type="MODELO.FORMULARIO" Role="FORMULARIO" Multiplicity="1" />
+    <End Type="MODELO.ACCION" Role="ACCION" Multiplicity="*" />
+  </Association>
+  <Association Name="USUARIOGRUPO">
+    <End Type="MODELO.USUARIO" Role="USUARIO" Multiplicity="*" />
+    <End Type="MODELO.GRUPO" Role="GRUPO" Multiplicity="*" />
+  </Association>
+  <Association Name="GRUPOACCION">
+    <End Type="MODELO.GRUPO" Role="GRUPO" Multiplicity="*" />
+    <End Type="MODELO.ACCION" Role="ACCION" Multiplicity="*" />
+  </Association>
+  <EntityType Name="PARAMETRO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DIRECTORIO_IMAGENES" Nullable="false" Type="String" />
+    <Property Name="ENVIO_MAILS" Type="Boolean" Nullable="false" />
+    <Property Name="MAIL_CUENTA" Type="String" Nullable="false" />
+    <Property Name="MAIL_CLAVE" Type="String" Nullable="false" />
+    <Property Name="MAIL_NOMBRE_REMITENTE" Type="String" Nullable="false" />
+    <Property Name="NOMBRE_EQUIPO" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PLAN">
+    <Key>
+      <PropertyRef Name="Id_Plan" />
+    </Key>
+    <Property Name="Id_Plan" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="Costo" Type="Decimal" Nullable="false" />
+    <Property Name="Estado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="SERVICIO" Relationship="MODELO.PLANSERVICIO" FromRole="PLAN" ToRole="SERVICIO" />
+    <NavigationProperty Name="AFILIADO" Relationship="MODELO.PLANAFILIADO" FromRole="PLAN" ToRole="AFILIADO" />
+  </EntityType>
+  <EntityType Name="SERVICIO">
+    <Key>
+      <PropertyRef Name="Id_Servicio" />
+    </Key>
+    <Property Name="Id_Servicio" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="Fecha_Creacion" Type="DateTime" Nullable="false" />
+    <Property Name="Estado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="PLAN" Relationship="MODELO.PLANSERVICIO" FromRole="SERVICIO" ToRole="PLAN" />
+  </EntityType>
+  <EntityType Name="DIA_NO_LABORABLE_MEDICO">
+    <Key>
+      <PropertyRef Name="Id_Dia" />
+    </Key>
+    <Property Name="Id_Dia" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Motivo" Type="String" Nullable="false" />
+    <NavigationProperty Name="MEDICO" Relationship="MODELO.MEDICODIA_NO_LABORABLE_MEDICO" FromRole="DIA_NO_LABORABLE_MEDICO" ToRole="MEDICO" />
+  </EntityType>
+  <EntityType Name="HORARIO_MEDICO">
+    <Key>
+      <PropertyRef Name="Id_Horario" />
+    </Key>
+    <Property Name="Id_Horario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Hora_Inicio" Type="String" Nullable="false" />
+    <Property Name="Hora_Fin" Type="String" Nullable="false" />
+    <Property Name="Dia" Type="String" Nullable="false" />
+    <NavigationProperty Name="MEDICO" Relationship="MODELO.MEDICOHORARIO_MEDICO" FromRole="HORARIO_MEDICO" ToRole="MEDICO" />
+  </EntityType>
+  <EntityType Name="DIAS_EMPRESA">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Dia" Type="String" Nullable="false" />
+    <Property Name="Hora_Inicio" Type="String" Nullable="false" />
+    <Property Name="Hora_Fin" Type="String" Nullable="false" />
+    <NavigationProperty Name="DATOS_EMPRESA" Relationship="MODELO.DIAS_EMPRESADATOS_EMPRESA" FromRole="DIAS_EMPRESA" ToRole="DATOS_EMPRESA" />
+  </EntityType>
+  <EntityType Name="DIAS_NO_LABORABLES">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Motivo" Type="String" Nullable="false" />
+    <NavigationProperty Name="DATOS_EMPRESA" Relationship="MODELO.DIAS_NO_LABORABLESDATOS_EMPRESA" FromRole="DIAS_NO_LABORABLES" ToRole="DATOS_EMPRESA" />
+  </EntityType>
+  <EntityType Name="MEDICO">
+    <Key>
+      <PropertyRef Name="Id_Medico" />
+    </Key>
+    <Property Name="Id_Medico" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Direccion" Type="String" Nullable="false" />
+    <Property Name="Telefono" Type="Int32" Nullable="false" />
+    <Property Name="Email" Type="String" Nullable="false" />
+    <Property Name="Matricula" Type="Int32" Nullable="false" />
+    <Property Name="DNI" Type="Int32" Nullable="false" />
+    <Property Name="Especialidad" Type="String" Nullable="false" />
+    <Property Name="Estado" Type="Boolean" Nullable="false" />
+    <Property Name="Tiempo_Por_Paciente" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DIA_NO_LABORABLE_MEDICO" Relationship="MODELO.MEDICODIA_NO_LABORABLE_MEDICO" FromRole="MEDICO" ToRole="DIA_NO_LABORABLE_MEDICO" />
+    <NavigationProperty Name="HORARIO_MEDICO" Relationship="MODELO.MEDICOHORARIO_MEDICO" FromRole="MEDICO" ToRole="HORARIO_MEDICO" />
+    <NavigationProperty Name="TURNO" Relationship="MODELO.MEDICOTURNO" FromRole="MEDICO" ToRole="TURNO" />
+  </EntityType>
+  <EntityType Name="AFILIADO">
+    <Key>
+      <PropertyRef Name="Id_Afiliado" />
+    </Key>
+    <Property Name="Id_Afiliado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Direccion" Type="String" Nullable="false" />
+    <Property Name="Email" Type="String" Nullable="false" />
+    <Property Name="Telefono" Type="Int32" Nullable="false" />
+    <Property Name="DNI" Type="Int32" Nullable="false" />
+    <Property Name="Fecha_Nacimiento" Type="DateTime" Nullable="false" />
+    <Property Name="Sexo" Type="String" Nullable="false" />
+    <Property Name="Numero_Contrato" Nullable="false" Type="Int32" />
+    <NavigationProperty Name="PLAN" Relationship="MODELO.PLANAFILIADO" FromRole="AFILIADO" ToRole="PLAN" />
+    <NavigationProperty Name="TURNO" Relationship="MODELO.AFILIADOTURNO" FromRole="AFILIADO" ToRole="TURNO" />
+    <Property Name="Forma_Pago" Type="String" Nullable="false" />
+    <Property Name="Estado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="DEUDAS" Relationship="MODELO.AFILIADODEUDAS" FromRole="AFILIADO" ToRole="DEUDAS" />
+    <NavigationProperty Name="FACTURAS" Relationship="MODELO.AFILIADOFACTURA" FromRole="AFILIADO" ToRole="FACTURA" />
+    <NavigationProperty Name="TARJETAS" Relationship="MODELO.AFILIADOTARJETA" FromRole="AFILIADO" ToRole="TARJETA" />
+    <NavigationProperty Name="RECIBOS" Relationship="MODELO.AFILIADORECIBO" FromRole="AFILIADO" ToRole="RECIBO" />
+  </EntityType>
+  <EntityType Name="TURNO">
+    <Key>
+      <PropertyRef Name="Id_Turno" />
+    </Key>
+    <Property Name="Id_Turno" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Estado" Type="String" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Motivo" Type="String" Nullable="false" />
+    <Property Name="Concurrio" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="MEDICO" Relationship="MODELO.MEDICOTURNO" FromRole="TURNO" ToRole="MEDICO" />
+    <NavigationProperty Name="AFILIADO" Relationship="MODELO.AFILIADOTURNO" FromRole="TURNO" ToRole="AFILIADO" />
+  </EntityType>
+  <EntityType Name="DATOS_EMPRESA">
+    <Key>
+      <PropertyRef Name="Id_Empresa" />
+    </Key>
+    <Property Name="Id_Empresa" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Dueño" Type="String" Nullable="false" />
+    <Property Name="Localidad" Type="String" Nullable="false" />
+    <NavigationProperty Name="DIAS_EMPRESA" Relationship="MODELO.DIAS_EMPRESADATOS_EMPRESA" FromRole="DATOS_EMPRESA" ToRole="DIAS_EMPRESA" />
+    <NavigationProperty Name="DIAS_NO_LABORABLES" Relationship="MODELO.DIAS_NO_LABORABLESDATOS_EMPRESA" FromRole="DATOS_EMPRESA" ToRole="DIAS_NO_LABORABLES" />
+  </EntityType>
+  <Association Name="PLANSERVICIO">
+    <End Type="MODELO.PLAN" Role="PLAN" Multiplicity="*" />
+    <End Type="MODELO.SERVICIO" Role="SERVICIO" Multiplicity="*" />
+  </Association>
+  <Association Name="PLANAFILIADO">
+    <End Type="MODELO.PLAN" Role="PLAN" Multiplicity="1" />
+    <End Type="MODELO.AFILIADO" Role="AFILIADO" Multiplicity="*" />
+  </Association>
+  <Association Name="MEDICODIA_NO_LABORABLE_MEDICO">
+    <End Type="MODELO.MEDICO" Role="MEDICO" Multiplicity="1" />
+    <End Type="MODELO.DIA_NO_LABORABLE_MEDICO" Role="DIA_NO_LABORABLE_MEDICO" Multiplicity="*" />
+  </Association>
+  <Association Name="MEDICOHORARIO_MEDICO">
+    <End Type="MODELO.MEDICO" Role="MEDICO" Multiplicity="1" />
+    <End Type="MODELO.HORARIO_MEDICO" Role="HORARIO_MEDICO" Multiplicity="*" />
+  </Association>
+  <Association Name="DIAS_EMPRESADATOS_EMPRESA">
+    <End Type="MODELO.DIAS_EMPRESA" Role="DIAS_EMPRESA" Multiplicity="*" />
+    <End Type="MODELO.DATOS_EMPRESA" Role="DATOS_EMPRESA" Multiplicity="1" />
+  </Association>
+  <Association Name="DIAS_NO_LABORABLESDATOS_EMPRESA">
+    <End Type="MODELO.DIAS_NO_LABORABLES" Role="DIAS_NO_LABORABLES" Multiplicity="*" />
+    <End Type="MODELO.DATOS_EMPRESA" Role="DATOS_EMPRESA" Multiplicity="1" />
+  </Association>
+  <Association Name="MEDICOTURNO">
+    <End Type="MODELO.MEDICO" Role="MEDICO" Multiplicity="1" />
+    <End Type="MODELO.TURNO" Role="TURNO" Multiplicity="*" />
+  </Association>
+  <Association Name="AFILIADOTURNO">
+    <End Type="MODELO.AFILIADO" Role="AFILIADO" Multiplicity="1" />
+    <End Type="MODELO.TURNO" Role="TURNO" Multiplicity="*" />
+  </Association>
+  <EntityType Name="AUDITORIA">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Id_usuario" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Accion" Type="String" Nullable="false" />
+    <Property Name="Id_turno" Type="Int32" Nullable="false" ConcurrencyMode="None" />
+  </EntityType>
+  <EntityType Name="Auditoria_Turnos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Id_Medico" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Id_Afiliado" Type="Int32" Nullable="false" />
+    <Property Name="Id_Usuario" Type="Int32" Nullable="false" />
+    <Property Name="Id_Turno" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DEUDA">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Mes" Type="String" Nullable="false" />
+    <NavigationProperty Name="AFILIADO" Relationship="MODELO.AFILIADODEUDAS" FromRole="DEUDAS" ToRole="AFILIADO" />
+    <Property Name="Año" Type="Int32" Nullable="false" />
+    <Property Name="Monto" Type="Decimal" Nullable="false" />
+    <Property Name="Pagada" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="DETALLE_RECIBO" Relationship="MODELO.DETALLE_RECIBODEUDA" FromRole="DEUDA" ToRole="DETALLE_RECIBO" />
+  </EntityType>
+  <Association Name="AFILIADODEUDAS">
+    <End Type="MODELO.AFILIADO" Role="AFILIADO" Multiplicity="1" />
+    <End Type="MODELO.DEUDA" Role="DEUDAS" Multiplicity="*" />
+  </Association>
+  <EntityType Name="FACTURA">
+    <Key>
+      <PropertyRef Name="Id_Factura" />
+    </Key>
+    <Property Name="Id_Factura" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="AFILIADO" Relationship="MODELO.AFILIADOFACTURA" FromRole="FACTURA" ToRole="AFILIADO" />
+    <NavigationProperty Name="DETALLE_FACTURA" Relationship="MODELO.FACTURADETALLE_FACTURA" FromRole="FACTURA" ToRole="DETALLE_FACTURA" />
+    <Property Name="Tipo_Factura" Type="String" Nullable="false" />
+    <Property Name="Importe" Type="Decimal" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Nro_Factura" Type="Int32" Nullable="false" />
+    <Property Name="IdEstadoFactura" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="AFILIADOFACTURA">
+    <End Type="MODELO.AFILIADO" Role="AFILIADO" Multiplicity="1" />
+    <End Type="MODELO.FACTURA" Role="FACTURA" Multiplicity="*" />
+  </Association>
+  <EntityType Name="DETALLE_FACTURA">
+    <Key>
+      <PropertyRef Name="Id_Detalle_Factura" />
+    </Key>
+    <Property Name="Id_Detalle_Factura" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="FACTURA" Relationship="MODELO.FACTURADETALLE_FACTURA" FromRole="DETALLE_FACTURA" ToRole="FACTURA" />
+    <Property Name="Codigo_Producto" Type="Int32" Nullable="false" />
+    <Property Name="Cantidad" Type="Int32" Nullable="false" />
+    <Property Name="Precio" Type="Decimal" Nullable="false" />
+    <NavigationProperty Name="PRODUCTO" Relationship="MODELO.PRODUCTODETALLE_FACTURA" FromRole="DETALLE_FACTURA" ToRole="PRODUCTO" />
+  </EntityType>
+  <Association Name="FACTURADETALLE_FACTURA">
+    <End Type="MODELO.FACTURA" Role="FACTURA" Multiplicity="1" />
+    <End Type="MODELO.DETALLE_FACTURA" Role="DETALLE_FACTURA" Multiplicity="*" />
+  </Association>
+  <EntityType Name="PRODUCTO">
+    <Key>
+      <PropertyRef Name="Codigo_Producto" />
+    </Key>
+    <Property Name="Codigo_Producto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="Marca" Type="String" Nullable="false" />
+    <Property Name="Precio" Type="Decimal" Nullable="false" />
+    <Property Name="Stock" Type="Int32" Nullable="false" />
+    <Property Name="Stock_Minimo" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DETALLE_FACTURA" Relationship="MODELO.PRODUCTODETALLE_FACTURA" FromRole="PRODUCTO" ToRole="DETALLE_FACTURA" />
+  </EntityType>
+  <Association Name="PRODUCTODETALLE_FACTURA">
+    <End Type="MODELO.PRODUCTO" Role="PRODUCTO" Multiplicity="1" />
+    <End Type="MODELO.DETALLE_FACTURA" Role="DETALLE_FACTURA" Multiplicity="*" />
+  </Association>
+  <EntityType Name="TARJETA">
+    <Key>
+      <PropertyRef Name="Id_Tarjeta" />
+    </Key>
+    <Property Name="Id_Tarjeta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Titular" Type="String" Nullable="false" />
+    <Property Name="Numero" Type="Int64" Nullable="false" />
+    <Property Name="Vencimiento" Type="String" Nullable="false" />
+    <NavigationProperty Name="AFILIADO" Relationship="MODELO.AFILIADOTARJETA" FromRole="TARJETA" ToRole="AFILIADO" />
+  </EntityType>
+  <Association Name="AFILIADOTARJETA">
+    <End Type="MODELO.AFILIADO" Role="AFILIADO" Multiplicity="1" />
+    <End Type="MODELO.TARJETA" Role="TARJETA" Multiplicity="0..1" />
+  </Association>
+  <EntityType Name="RECIBO">
+    <Key>
+      <PropertyRef Name="Id_Recibo" />
+    </Key>
+    <Property Name="Id_Recibo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="DETALLE_RECIBO" Relationship="MODELO.RECIBODETALLE_RECIBO" FromRole="RECIBO" ToRole="DETALLE_RECIBO" />
+    <NavigationProperty Name="AFILIADO" Relationship="MODELO.AFILIADORECIBO" FromRole="RECIBO" ToRole="AFILIADO" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Importe" Type="Decimal" Nullable="false" />
+    <Property Name="Nro_Recibo" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DETALLE_RECIBO">
+    <Key>
+      <PropertyRef Name="Id_Detalle_Recibo" />
+    </Key>
+    <Property Name="Id_Detalle_Recibo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="DEUDAS" Relationship="MODELO.DETALLE_RECIBODEUDA" FromRole="DETALLE_RECIBO" ToRole="DEUDA" />
+    <NavigationProperty Name="RECIBO" Relationship="MODELO.RECIBODETALLE_RECIBO" FromRole="DETALLE_RECIBO" ToRole="RECIBO" />
+    <Property Name="Importe" Type="Decimal" Nullable="false" />
+  </EntityType>
+  <Association Name="DETALLE_RECIBODEUDA">
+    <End Type="MODELO.DETALLE_RECIBO" Role="DETALLE_RECIBO" Multiplicity="0..1" />
+    <End Type="MODELO.DEUDA" Role="DEUDA" Multiplicity="*" />
+  </Association>
+  <Association Name="RECIBODETALLE_RECIBO">
+    <End Type="MODELO.RECIBO" Role="RECIBO" Multiplicity="1" />
+    <End Type="MODELO.DETALLE_RECIBO" Role="DETALLE_RECIBO" Multiplicity="*" />
+  </Association>
+  <Association Name="AFILIADORECIBO">
+    <End Type="MODELO.AFILIADO" Role="AFILIADO" Multiplicity="0..1" />
+    <End Type="MODELO.RECIBO" Role="RECIBO" Multiplicity="*" />
+  </Association>
+</Schema>

@@ -1,0 +1,199 @@
+C:\TRABAJO\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\TRABAJO\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\TRABAJO\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\TRABAJO\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\TRABAJO\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\TRABAJO\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\TRABAJO\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\TRABAJO\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\TRABAJO\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\TRABAJO\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\TRABAJO\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\TRABAJO\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\manu_\Desktop\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.WebForms.DLL

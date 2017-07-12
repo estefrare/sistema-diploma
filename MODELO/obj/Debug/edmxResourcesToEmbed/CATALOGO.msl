@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MODELOStoreContainer" CdmEntityContainer="CATALOGO">
+    <EntitySetMapping Name="USUARIOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.USUARIO)">
+        <MappingFragment StoreEntitySet="USUARIOS">
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="NOMBRE_USUARIO" ColumnName="NOMBRE_USUARIO" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="CLAVE" ColumnName="CLAVE" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="TELEFONO" ColumnName="TELEFONO" />
+          <ScalarProperty Name="ACTIVO" ColumnName="ACTIVO" />
+          <ScalarProperty Name="RESETEAR_CLAVE" ColumnName="RESETEAR_CLAVE" />
+          <ScalarProperty Name="IMAGEN" ColumnName="IMAGEN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GRUPOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.GRUPO)">
+        <MappingFragment StoreEntitySet="GRUPOS">
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="ACTIVO" ColumnName="ACTIVO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FORMULARIOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.FORMULARIO)">
+        <MappingFragment StoreEntitySet="FORMULARIOS">
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="CLASE" ColumnName="CLASE" />
+          <ScalarProperty Name="ACTIVO" ColumnName="ACTIVO" />
+          <ScalarProperty Name="MENU" ColumnName="MENU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ACCIONES">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.ACCION)">
+        <MappingFragment StoreEntitySet="ACCIONES">
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="CONTROL" ColumnName="CONTROL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MODULOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.MODULO)">
+        <MappingFragment StoreEntitySet="MODULOS">
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SUBMODULOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.SUBMODULO)">
+        <MappingFragment StoreEntitySet="SUBMODULOS">
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PARAMETROS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.PARAMETRO)">
+        <MappingFragment StoreEntitySet="PARAMETROS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DIRECTORIO_IMAGENES" ColumnName="DIRECTORIO_IMAGENES" />
+          <ScalarProperty Name="ENVIO_MAILS" ColumnName="ENVIO_MAILS" />
+          <ScalarProperty Name="MAIL_CUENTA" ColumnName="MAIL_CUENTA" />
+          <ScalarProperty Name="MAIL_CLAVE" ColumnName="MAIL_CLAVE" />
+          <ScalarProperty Name="MAIL_NOMBRE_REMITENTE" ColumnName="MAIL_NOMBRE_REMITENTE" />
+          <ScalarProperty Name="NOMBRE_EQUIPO" ColumnName="NOMBRE_EQUIPO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PLANES">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.PLAN)">
+        <MappingFragment StoreEntitySet="PLANES">
+          <ScalarProperty Name="Id_Plan" ColumnName="Id_Plan" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SERVICIOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.SERVICIO)">
+        <MappingFragment StoreEntitySet="SERVICIOS">
+          <ScalarProperty Name="Id_Servicio" ColumnName="Id_Servicio" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Fecha_Creacion" ColumnName="Fecha_Creacion" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIAS_NO_LABORABLES_MEDICOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.DIA_NO_LABORABLE_MEDICO)">
+        <MappingFragment StoreEntitySet="DIAS_NO_LABORABLES_MEDICOS">
+          <ScalarProperty Name="Id_Dia" ColumnName="Id_Dia" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Motivo" ColumnName="Motivo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HORARIOS_MEDICOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.HORARIO_MEDICO)">
+        <MappingFragment StoreEntitySet="HORARIOS_MEDICOS">
+          <ScalarProperty Name="Id_Horario" ColumnName="Id_Horario" />
+          <ScalarProperty Name="Hora_Inicio" ColumnName="Hora_Inicio" />
+          <ScalarProperty Name="Hora_Fin" ColumnName="Hora_Fin" />
+          <ScalarProperty Name="Dia" ColumnName="Dia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIAS_EMPRESAS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.DIAS_EMPRESA)">
+        <MappingFragment StoreEntitySet="DIAS_EMPRESAS">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Dia" ColumnName="Dia" />
+          <ScalarProperty Name="Hora_Inicio" ColumnName="Hora_Inicio" />
+          <ScalarProperty Name="Hora_Fin" ColumnName="Hora_Fin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIAS_NO_LABORABLESS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.DIAS_NO_LABORABLES)">
+        <MappingFragment StoreEntitySet="DIAS_NO_LABORABLESS">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Motivo" ColumnName="Motivo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MEDICOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.MEDICO)">
+        <MappingFragment StoreEntitySet="MEDICOS">
+          <ScalarProperty Name="Id_Medico" ColumnName="Id_Medico" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Matricula" ColumnName="Matricula" />
+          <ScalarProperty Name="DNI" ColumnName="DNI" />
+          <ScalarProperty Name="Especialidad" ColumnName="Especialidad" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Tiempo_Por_Paciente" ColumnName="Tiempo_Por_Paciente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AFILIADOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.AFILIADO)">
+        <MappingFragment StoreEntitySet="AFILIADOS">
+          <ScalarProperty Name="Id_Afiliado" ColumnName="Id_Afiliado" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="DNI" ColumnName="DNI" />
+          <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha_Nacimiento" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="Numero_Contrato" ColumnName="Numero_Contrato" />
+          <ScalarProperty Name="Forma_Pago" ColumnName="Forma_Pago" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TURNOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.TURNO)">
+        <MappingFragment StoreEntitySet="TURNOS">
+          <ScalarProperty Name="Id_Turno" ColumnName="Id_Turno" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Motivo" ColumnName="Motivo" />
+          <ScalarProperty Name="Concurrio" ColumnName="Concurrio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DATOS_EMPRESAS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.DATOS_EMPRESA)">
+        <MappingFragment StoreEntitySet="DATOS_EMPRESAS">
+          <ScalarProperty Name="Id_Empresa" ColumnName="Id_Empresa" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Dueño" ColumnName="Dueño" />
+          <ScalarProperty Name="Localidad" ColumnName="Localidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AUDITORIAs">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.AUDITORIA)">
+        <MappingFragment StoreEntitySet="AUDITORIAs">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Id_usuario" ColumnName="Id_usuario" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Accion" ColumnName="Accion" />
+          <ScalarProperty Name="Id_turno" ColumnName="Id_turno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Auditoria_Turnos">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.Auditoria_Turnos)">
+        <MappingFragment StoreEntitySet="Auditoria_Turnos">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Id_Medico" ColumnName="Id_Medico" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Id_Afiliado" ColumnName="Id_Afiliado" />
+          <ScalarProperty Name="Id_Usuario" ColumnName="Id_Usuario" />
+          <ScalarProperty Name="Id_Turno" ColumnName="Id_Turno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DEUDAS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.DEUDA)">
+        <MappingFragment StoreEntitySet="DEUDAS">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Mes" ColumnName="Mes" />
+          <ScalarProperty Name="Año" ColumnName="Año" />
+          <ScalarProperty Name="Monto" ColumnName="Monto" />
+          <ScalarProperty Name="Pagada" ColumnName="Pagada" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FACTURAS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.FACTURA)">
+        <MappingFragment StoreEntitySet="FACTURAS">
+          <ScalarProperty Name="Id_Factura" ColumnName="Id_Factura" />
+          <ScalarProperty Name="Tipo_Factura" ColumnName="Tipo_Factura" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Nro_Factura" ColumnName="Nro_Factura" />
+          <ScalarProperty Name="IdEstadoFactura" ColumnName="IdEstadoFactura" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DETALLES_FACTURAS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.DETALLE_FACTURA)">
+        <MappingFragment StoreEntitySet="DETALLES_FACTURAS">
+          <ScalarProperty Name="Id_Detalle_Factura" ColumnName="Id_Detalle_Factura" />
+          <ScalarProperty Name="Codigo_Producto" ColumnName="Codigo_Producto" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUCTOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.PRODUCTO)">
+        <MappingFragment StoreEntitySet="PRODUCTOS">
+          <ScalarProperty Name="Codigo_Producto" ColumnName="Codigo_Producto" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+          <ScalarProperty Name="Stock_Minimo" ColumnName="Stock_Minimo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TARJETAS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.TARJETA)">
+        <MappingFragment StoreEntitySet="TARJETAS">
+          <ScalarProperty Name="Id_Tarjeta" ColumnName="Id_Tarjeta" />
+          <ScalarProperty Name="Titular" ColumnName="Titular" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Vencimiento" ColumnName="Vencimiento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RECIBOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.RECIBO)">
+        <MappingFragment StoreEntitySet="RECIBOS">
+          <ScalarProperty Name="Id_Recibo" ColumnName="Id_Recibo" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Nro_Recibo" ColumnName="Nro_Recibo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DETALLES_RECIBOS">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.DETALLE_RECIBO)">
+        <MappingFragment StoreEntitySet="DETALLES_RECIBOS">
+          <ScalarProperty Name="Id_Detalle_Recibo" ColumnName="Id_Detalle_Recibo" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="MODULOSUBMODULO" TypeName="MODELO.MODULOSUBMODULO" StoreEntitySet="SUBMODULOS">
+      <EndProperty Name="MODULO">
+        <ScalarProperty Name="CODIGO" ColumnName="MODULO_CODIGO" />
+      </EndProperty>
+      <EndProperty Name="SUBMODULO">
+        <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="SUBMODULOFORMULARIO" TypeName="MODELO.SUBMODULOFORMULARIO" StoreEntitySet="FORMULARIOS">
+      <EndProperty Name="SUBMODULO">
+        <ScalarProperty Name="CODIGO" ColumnName="SUBMODULO_CODIGO" />
+      </EndProperty>
+      <EndProperty Name="FORMULARIO">
+        <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FORMULARIOACCION" TypeName="MODELO.FORMULARIOACCION" StoreEntitySet="ACCIONES">
+      <EndProperty Name="FORMULARIO">
+        <ScalarProperty Name="CODIGO" ColumnName="FORMULARIO_CODIGO" />
+      </EndProperty>
+      <EndProperty Name="ACCION">
+        <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="USUARIOGRUPO" TypeName="MODELO.USUARIOGRUPO" StoreEntitySet="USUARIOGRUPO">
+      <EndProperty Name="USUARIO">
+        <ScalarProperty Name="CODIGO" ColumnName="USUARIO_CODIGO" />
+      </EndProperty>
+      <EndProperty Name="GRUPO">
+        <ScalarProperty Name="CODIGO" ColumnName="GRUPO_CODIGO" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="GRUPOACCION" TypeName="MODELO.GRUPOACCION" StoreEntitySet="GRUPOACCION">
+      <EndProperty Name="GRUPO">
+        <ScalarProperty Name="CODIGO" ColumnName="GRUPO_CODIGO" />
+      </EndProperty>
+      <EndProperty Name="ACCION">
+        <ScalarProperty Name="CODIGO" ColumnName="ACCION_CODIGO" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="PLANSERVICIO" TypeName="MODELO.PLANSERVICIO" StoreEntitySet="PLANSERVICIO">
+      <EndProperty Name="PLAN">
+        <ScalarProperty Name="Id_Plan" ColumnName="PLAN_Id_Plan" />
+      </EndProperty>
+      <EndProperty Name="SERVICIO">
+        <ScalarProperty Name="Id_Servicio" ColumnName="SERVICIO_Id_Servicio" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="PLANAFILIADO" TypeName="MODELO.PLANAFILIADO" StoreEntitySet="AFILIADOS">
+      <EndProperty Name="PLAN">
+        <ScalarProperty Name="Id_Plan" ColumnName="PLAN_Id_Plan" />
+      </EndProperty>
+      <EndProperty Name="AFILIADO">
+        <ScalarProperty Name="Id_Afiliado" ColumnName="Id_Afiliado" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="MEDICODIA_NO_LABORABLE_MEDICO" TypeName="MODELO.MEDICODIA_NO_LABORABLE_MEDICO" StoreEntitySet="DIAS_NO_LABORABLES_MEDICOS">
+      <EndProperty Name="MEDICO">
+        <ScalarProperty Name="Id_Medico" ColumnName="MEDICO_Id_Medico" />
+      </EndProperty>
+      <EndProperty Name="DIA_NO_LABORABLE_MEDICO">
+        <ScalarProperty Name="Id_Dia" ColumnName="Id_Dia" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="MEDICOHORARIO_MEDICO" TypeName="MODELO.MEDICOHORARIO_MEDICO" StoreEntitySet="HORARIOS_MEDICOS">
+      <EndProperty Name="MEDICO">
+        <ScalarProperty Name="Id_Medico" ColumnName="MEDICO_Id_Medico" />
+      </EndProperty>
+      <EndProperty Name="HORARIO_MEDICO">
+        <ScalarProperty Name="Id_Horario" ColumnName="Id_Horario" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="DIAS_EMPRESADATOS_EMPRESA" TypeName="MODELO.DIAS_EMPRESADATOS_EMPRESA" StoreEntitySet="DIAS_EMPRESAS">
+      <EndProperty Name="DATOS_EMPRESA">
+        <ScalarProperty Name="Id_Empresa" ColumnName="DATOS_EMPRESA_Id_Empresa" />
+      </EndProperty>
+      <EndProperty Name="DIAS_EMPRESA">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="DIAS_NO_LABORABLESDATOS_EMPRESA" TypeName="MODELO.DIAS_NO_LABORABLESDATOS_EMPRESA" StoreEntitySet="DIAS_NO_LABORABLESS">
+      <EndProperty Name="DATOS_EMPRESA">
+        <ScalarProperty Name="Id_Empresa" ColumnName="DATOS_EMPRESA_Id_Empresa" />
+      </EndProperty>
+      <EndProperty Name="DIAS_NO_LABORABLES">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="MEDICOTURNO" TypeName="MODELO.MEDICOTURNO" StoreEntitySet="TURNOS">
+      <EndProperty Name="MEDICO">
+        <ScalarProperty Name="Id_Medico" ColumnName="MEDICO_Id_Medico" />
+      </EndProperty>
+      <EndProperty Name="TURNO">
+        <ScalarProperty Name="Id_Turno" ColumnName="Id_Turno" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="AFILIADOTURNO" TypeName="MODELO.AFILIADOTURNO" StoreEntitySet="TURNOS">
+      <EndProperty Name="AFILIADO">
+        <ScalarProperty Name="Id_Afiliado" ColumnName="AFILIADO_Id_Afiliado" />
+      </EndProperty>
+      <EndProperty Name="TURNO">
+        <ScalarProperty Name="Id_Turno" ColumnName="Id_Turno" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="AFILIADODEUDAS" TypeName="MODELO.AFILIADODEUDAS" StoreEntitySet="DEUDAS">
+      <EndProperty Name="AFILIADO">
+        <ScalarProperty Name="Id_Afiliado" ColumnName="AFILIADO_Id_Afiliado" />
+      </EndProperty>
+      <EndProperty Name="DEUDAS">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="AFILIADOFACTURA" TypeName="MODELO.AFILIADOFACTURA" StoreEntitySet="FACTURAS">
+      <EndProperty Name="AFILIADO">
+        <ScalarProperty Name="Id_Afiliado" ColumnName="AFILIADO_Id_Afiliado" />
+      </EndProperty>
+      <EndProperty Name="FACTURA">
+        <ScalarProperty Name="Id_Factura" ColumnName="Id_Factura" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FACTURADETALLE_FACTURA" TypeName="MODELO.FACTURADETALLE_FACTURA" StoreEntitySet="DETALLES_FACTURAS">
+      <EndProperty Name="FACTURA">
+        <ScalarProperty Name="Id_Factura" ColumnName="FACTURA_Id_Factura" />
+      </EndProperty>
+      <EndProperty Name="DETALLE_FACTURA">
+        <ScalarProperty Name="Id_Detalle_Factura" ColumnName="Id_Detalle_Factura" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="PRODUCTODETALLE_FACTURA" TypeName="MODELO.PRODUCTODETALLE_FACTURA" StoreEntitySet="DETALLES_FACTURAS">
+      <EndProperty Name="PRODUCTO">
+        <ScalarProperty Name="Codigo_Producto" ColumnName="PRODUCTO_Codigo_Producto" />
+      </EndProperty>
+      <EndProperty Name="DETALLE_FACTURA">
+        <ScalarProperty Name="Id_Detalle_Factura" ColumnName="Id_Detalle_Factura" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="AFILIADOTARJETA" TypeName="MODELO.AFILIADOTARJETA" StoreEntitySet="TARJETAS">
+      <EndProperty Name="AFILIADO">
+        <ScalarProperty Name="Id_Afiliado" ColumnName="AFILIADO_Id_Afiliado" />
+      </EndProperty>
+      <EndProperty Name="TARJETA">
+        <ScalarProperty Name="Id_Tarjeta" ColumnName="Id_Tarjeta" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="DETALLE_RECIBODEUDA" TypeName="MODELO.DETALLE_RECIBODEUDA" StoreEntitySet="DEUDAS">
+      <EndProperty Name="DETALLE_RECIBO">
+        <ScalarProperty Name="Id_Detalle_Recibo" ColumnName="DETALLE_RECIBO_Id_Detalle_Recibo" />
+      </EndProperty>
+      <EndProperty Name="DEUDA">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+      <Condition ColumnName="DETALLE_RECIBO_Id_Detalle_Recibo" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="RECIBODETALLE_RECIBO" TypeName="MODELO.RECIBODETALLE_RECIBO" StoreEntitySet="DETALLES_RECIBOS">
+      <EndProperty Name="RECIBO">
+        <ScalarProperty Name="Id_Recibo" ColumnName="RECIBO_Id_Recibo" />
+      </EndProperty>
+      <EndProperty Name="DETALLE_RECIBO">
+        <ScalarProperty Name="Id_Detalle_Recibo" ColumnName="Id_Detalle_Recibo" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="AFILIADORECIBO" TypeName="MODELO.AFILIADORECIBO" StoreEntitySet="RECIBOS">
+      <EndProperty Name="AFILIADO">
+        <ScalarProperty Name="Id_Afiliado" ColumnName="AFILIADO_Id_Afiliado" />
+      </EndProperty>
+      <EndProperty Name="RECIBO">
+        <ScalarProperty Name="Id_Recibo" ColumnName="Id_Recibo" />
+      </EndProperty>
+      <Condition ColumnName="AFILIADO_Id_Afiliado" IsNull="false" />
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

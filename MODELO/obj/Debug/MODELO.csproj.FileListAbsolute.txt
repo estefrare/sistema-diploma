@@ -1,0 +1,183 @@
+C:\TRABAJO\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\TRABAJO\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\TRABAJO\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\TRABAJO\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\TRABAJO\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\TRABAJO\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\TRABAJO\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\TRABAJO\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\TRABAJO\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\TRABAJO\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\bin\Debug\MODELO.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\obj\Debug\MODELO.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\manu_\Desktop\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\manu_\Desktop\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\manu_\Desktop\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\manu_\Desktop\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\manu_\Desktop\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manu_\Desktop\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\manu_\Desktop\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manu_\Desktop\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\manu_\Desktop\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\manu_\Desktop\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\bin\Debug\stdole.dll

@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FAFEC092-E56A-4DD7-B636-C3C6316B2129}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MODELO</RootNamespace>
+    <AssemblyName>MODELO</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACCION.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AFILIADO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AUDITORIA.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Auditoria_Turnos.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CAMBIOS.cs" />
+    <Compile Include="CATALOGO.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CATALOGO.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CATALOGO.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CATALOGO.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CATALOGO.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="DATOS_EMPRESA.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DETALLE_FACTURA.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DETALLE_RECIBO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DEUDA.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DIAS_EMPRESA.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DIAS_NO_LABORABLES.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DIA_NO_LABORABLE_MEDICO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Factory\Products\Detalle.cs" />
+    <Compile Include="Factory\Products\DetalleFacturaPartial.cs" />
+    <Compile Include="Factory\Products\DetalleReciboPartial.cs" />
+    <Compile Include="Factory\Creator\Documento.cs" />
+    <Compile Include="FACTURA.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GRUPO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HORARIO_MEDICO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Identificadores\EstadoFactura.cs" />
+    <Compile Include="estructuras.cs" />
+    <Compile Include="Factory\Creator\FacturaPartial.cs" />
+    <Compile Include="MEDICO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MODULO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Observer\IProducto.cs" />
+    <Compile Include="Observer\PRODUCTO.cs" />
+    <Compile Include="PARAMETRO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pCatalogo.cs" />
+    <Compile Include="PLAN.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUCTO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pUSUARIO.cs" />
+    <Compile Include="Factory\Creator\ReciboPartial.cs" />
+    <Compile Include="RECIBO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SERVICIO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SUBMODULO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TARJETA.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TURNO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="USUARIO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="CATALOGO.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>CATALOGO.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CATALOGO.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>CATALOGO.Context.cs</LastGenOutput>
+      <DependentUpon>CATALOGO.edmx</DependentUpon>
+    </None>
+    <None Include="CATALOGO.edmx.diagram">
+      <DependentUpon>CATALOGO.edmx</DependentUpon>
+    </None>
+    <None Include="CATALOGO.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>CATALOGO.cs</LastGenOutput>
+      <DependentUpon>CATALOGO.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CATALOGO.edmx.sql" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

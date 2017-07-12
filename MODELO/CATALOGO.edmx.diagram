@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d5dfe6ed6f4c44cbaea14b4fda9ae899" Name="Diagram1" ZoomLevel="94" >
+        <EntityTypeShape EntityType="MODELO.USUARIO" Width="2" PointX="0.875" PointY="0.75" />
+        <EntityTypeShape EntityType="MODELO.GRUPO" Width="1.5" PointX="3.25" PointY="0.875" />
+        <EntityTypeShape EntityType="MODELO.FORMULARIO" Width="1.5" PointX="3" PointY="3.5" />
+        <EntityTypeShape EntityType="MODELO.ACCION" Width="1.5" PointX="5.125" PointY="3.375" />
+        <EntityTypeShape EntityType="MODELO.MODULO" Width="1.5" PointX="0.875" PointY="6.375" />
+        <EntityTypeShape EntityType="MODELO.SUBMODULO" Width="1.5" PointX="1" PointY="4" IsExpanded="false" />
+        <AssociationConnector Association="MODELO.MODULOSUBMODULO" />
+        <AssociationConnector Association="MODELO.SUBMODULOFORMULARIO" />
+        <AssociationConnector Association="MODELO.FORMULARIOACCION" />
+        <AssociationConnector Association="MODELO.USUARIOGRUPO" />
+        <AssociationConnector Association="MODELO.GRUPOACCION" />
+        <EntityTypeShape EntityType="MODELO.PARAMETRO" Width="2.25" PointX="5.125" PointY="0.75" />
+        <EntityTypeShape EntityType="MODELO.PLAN" Width="1.5" PointX="7.25" PointY="5.625" />
+        <EntityTypeShape EntityType="MODELO.SERVICIO" Width="1.5" PointX="9.5" PointY="3.375" />
+        <EntityTypeShape EntityType="MODELO.DIA_NO_LABORABLE_MEDICO" Width="1.5" PointX="16.25" PointY="0.75" />
+        <EntityTypeShape EntityType="MODELO.HORARIO_MEDICO" Width="1.5" PointX="13.875" PointY="7.125" />
+        <EntityTypeShape EntityType="MODELO.DIAS_EMPRESA" Width="1.5" PointX="12.25" PointY="0.625" />
+        <EntityTypeShape EntityType="MODELO.DIAS_NO_LABORABLES" Width="1.5" PointX="12.25" PointY="3.75" />
+        <EntityTypeShape EntityType="MODELO.MEDICO" Width="1.5" PointX="16.125" PointY="3.75" />
+        <EntityTypeShape EntityType="MODELO.AFILIADO" Width="1.5" PointX="9.5" PointY="6.25" />
+        <EntityTypeShape EntityType="MODELO.TURNO" Width="1.5" PointX="11.75" PointY="7.125" />
+        <EntityTypeShape EntityType="MODELO.DATOS_EMPRESA" Width="1.5" PointX="14.5" PointY="0.5" />
+        <AssociationConnector Association="MODELO.PLANSERVICIO" />
+        <AssociationConnector Association="MODELO.PLANAFILIADO" />
+        <AssociationConnector Association="MODELO.MEDICODIA_NO_LABORABLE_MEDICO" />
+        <AssociationConnector Association="MODELO.MEDICOHORARIO_MEDICO" />
+        <AssociationConnector Association="MODELO.DIAS_EMPRESADATOS_EMPRESA" />
+        <AssociationConnector Association="MODELO.DIAS_NO_LABORABLESDATOS_EMPRESA" />
+        <AssociationConnector Association="MODELO.MEDICOTURNO" />
+        <AssociationConnector Association="MODELO.AFILIADOTURNO" />
+        <EntityTypeShape EntityType="MODELO.AUDITORIA" Width="1.5" PointX="3" PointY="6.5" />
+        <EntityTypeShape EntityType="MODELO.Auditoria_Turnos" Width="1.5" PointX="5.125" PointY="6" />
+        <EntityTypeShape EntityType="MODELO.DEUDA" Width="1.5" PointX="7.125" PointY="8.375" />
+        <AssociationConnector Association="MODELO.AFILIADODEUDAS" />
+        <EntityTypeShape EntityType="MODELO.FACTURA" Width="1.5" PointX="11.875" PointY="10" />
+        <AssociationConnector Association="MODELO.AFILIADOFACTURA" />
+        <EntityTypeShape EntityType="MODELO.DETALLE_FACTURA" Width="1.5" PointX="14" PointY="10" />
+        <AssociationConnector Association="MODELO.FACTURADETALLE_FACTURA" />
+        <EntityTypeShape EntityType="MODELO.PRODUCTO" Width="1.5" PointX="16.625" PointY="10" />
+        <AssociationConnector Association="MODELO.PRODUCTODETALLE_FACTURA" />
+        <EntityTypeShape EntityType="MODELO.TARJETA" Width="1.5" PointX="13.75" PointY="12.5" />
+        <AssociationConnector Association="MODELO.AFILIADOTARJETA" />
+        <EntityTypeShape EntityType="MODELO.RECIBO" Width="1.5" PointX="7.125" PointY="11.25" />
+        <EntityTypeShape EntityType="MODELO.DETALLE_RECIBO" Width="1.5" PointX="4.75" PointY="11.125" />
+        <AssociationConnector Association="MODELO.DETALLE_RECIBODEUDA" />
+        <AssociationConnector Association="MODELO.RECIBODETALLE_RECIBO" />
+        <AssociationConnector Association="MODELO.AFILIADORECIBO" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

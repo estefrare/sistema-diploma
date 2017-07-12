@@ -1,0 +1,783 @@
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\TRABAJO\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\TRABAJO\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\acer\Desktop\SISTEMA\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\acer\Desktop\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\acer\Desktop\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.exe
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\VISTA.exe
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\MODELO.dll
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+Z:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+E:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+E:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.exe
+E:\Curso ICONIX\SISTEMA\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\manu_\Desktop\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\manu_\Desktop\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+E:\Escritorio Asus\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+E:\Escritorio Asus\SISTEMA\VISTA\obj\Debug\VISTA.exe
+E:\Escritorio Asus\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\Julian\Desktop\Programacion 01-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Julian\Desktop\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\Julian\Desktop\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 01-03 (23hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\esteb\Desktop\Programacion 02-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\RdlCompile.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (17hs)\Programacion\SISTEMA\VISTA\obj\Debug\RdlCompile.compiled
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\RdlCompile.cache
+C:\Users\esteb\Desktop\CAMPO 2016 CON ESTEBAN( actualizado)\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\RdlCompile.compiled
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\RdlCompile.cache
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\RdlCompile.compiled
+C:\Users\Julian\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.VerSERVICIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.VerSERVICIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 03-03 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.VerSERVICIOS.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Desktop\CAMPO 2016 CON ESTEBAN\Programacion 07-08 (20hs)\Programacion\SISTEMA\VISTA\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.exe
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.exe
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmINFORME.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmAFILIADO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmBUSCARAFILIADO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGEMPRESA.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCONFIGMEDICO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIAEMPRESA.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIASNOLABORABLESMEDICO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmDIANOLABORALEMPRESA.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARAFILIADOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARMEDICOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPLANES.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARSERVICIOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONTURNOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmHORARIOMEDICO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmMEDICO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPLANES.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmSERVICIOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmTURNO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmDATOS_USUARIO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmLOGIN.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.frmRECUPERAR_CLAVE.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Inicio.MENU_PRINCIPAL.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Parametros.frmPARAMETROS_EQUIPOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCAMBIAR_CLAVE.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmCLAVE_USUARIO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPOS_USUARIOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmGRUPO_USUARIO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.Seguridad.frmUSUARIOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.ucAFILIADO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.VerSERVICIOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCOBRAR.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmFACTURACION.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\stdole.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\FlashControlV71.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmGESTIONARPRODUCTOS.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmPRODUCTO.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmCOMPRA.resources
+C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\VISTA\obj\Debug\VISTA.FrmVENTA.resources

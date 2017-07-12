@@ -1,0 +1,8 @@
+
+ENTRE:</configSections>
+
+  <startup useLegacyV2RuntimeActivationPolicy="true">
+      <supportedRuntime version="v4.0"/>
+  </startup>
+
+ENTRE: <connectionStrings>
