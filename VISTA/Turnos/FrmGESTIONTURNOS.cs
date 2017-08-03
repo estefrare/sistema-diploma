@@ -275,5 +275,10 @@ namespace VISTA
                 MODIFICAR_TURNO();
             }
         }
+
+        private void FrmGESTIONTURNOS_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

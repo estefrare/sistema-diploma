@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\CATALOGO.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\Esteban\Desktop\SistemaCampo\MODELO\CATALOGO.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

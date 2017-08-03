@@ -197,3 +197,18 @@ C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de c
 C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.Common.dll
 C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
 C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\obj\Debug\CONTROLADORA.pdb

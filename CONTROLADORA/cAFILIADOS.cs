@@ -9,6 +9,9 @@ namespace CONTROLADORA
     public class cAFILIADOS
     {
         MODELO.CATALOGO oCATALOGO;
+        CONTROLADORA.cDEUDAS cDEUDAS;
+        CONTROLADORA.cTARJETAS cTARJETAS;
+        CONTROLADORA.cPLANES cPLANES;
         private static cAFILIADOS Instancia;
 
         public static cAFILIADOS Obtener_Instancia()
@@ -21,7 +24,10 @@ namespace CONTROLADORA
 
         private cAFILIADOS()
         {
-            oCATALOGO = MODELO.CATALOGO.Obtener_Instancia();      
+            oCATALOGO = MODELO.CATALOGO.Obtener_Instancia();     
+            cDEUDAS = CONTROLADORA.cDEUDAS.Obtener_Instancia();
+            cTARJETAS = CONTROLADORA.cTARJETAS.Obtener_Instancia();
+            cPLANES = CONTROLADORA.cPLANES.obtener_instancia();
         }
 
         public void Agregar_Afiliado(MODELO.AFILIADO oAfiliado)
@@ -38,14 +44,12 @@ namespace CONTROLADORA
 
         public void Agregar_Tarjeta (MODELO.TARJETA oTarjeta)
         {
-            oCATALOGO.TARJETAS.Add(oTarjeta);
-            oCATALOGO.SaveChanges();
+            cTARJETAS.Agregar_Tarjeta(oTarjeta);
         }
 
         public void Modificar_Tarjeta(MODELO.TARJETA oTarjeta)
         {
-            oCATALOGO.Entry(oTarjeta).State = System.Data.Entity.EntityState.Modified;
-            oCATALOGO.SaveChanges();
+            cTARJETAS.Modificar_Tarjeta(oTarjeta);
         }
 
         public void Agregar_Servicio(MODELO.SERVICIO oServicio)
@@ -56,43 +60,33 @@ namespace CONTROLADORA
 
         public void Agregar_Deuda(MODELO.DEUDA oDeuda)
         {
-            oCATALOGO.DEUDAS.Add(oDeuda);
-            oCATALOGO.SaveChanges();
+            cDEUDAS.Agregar_Deuda(oDeuda);
         }
 
         
         public List<MODELO.DEUDA> Obtener_Deudas(int id)
         {
-            var lista = from deudas in oCATALOGO.DEUDAS
-                        where deudas.AFILIADO.Id_Afiliado == id && deudas.Pagada == false
-                        select deudas;
-            
-            return (List<MODELO.DEUDA>)lista.ToList();
+            return cDEUDAS.Obtener_Deudas(id);
         }
 
         public List<MODELO.DEUDA> Obtener_Deudas()
         {
-            return oCATALOGO.DEUDAS.ToList();
+            return cDEUDAS.Obtener_Deudas();
         }
 
         public void modificar_deuda(MODELO.DEUDA oDeuda)
         {
-            oCATALOGO.Entry(oDeuda).State = System.Data.Entity.EntityState.Modified;
-            oCATALOGO.SaveChanges();
+            cDEUDAS.modificar_deuda(oDeuda);
         }
 
         public System.Collections.IEnumerable chequear_deuda (MODELO.DEUDA oDeuda)
         {
-            var lista = from deuda in oCATALOGO.DEUDAS
-                        where deuda.Mes == oDeuda.Mes && deuda.Año == oDeuda.Año && deuda.AFILIADO == oDeuda.AFILIADO
-                        select deuda;
-
-            return lista.ToList();
+            return chequear_deuda(oDeuda);
         }
 
         public List<MODELO.PLAN> Obtener_Planes()
         {
-            return oCATALOGO.PLANES.ToList();
+            return cPLANES.Obtener_Planes();
         }
 
         public List<MODELO.AFILIADO> Obtener_Afiliados()

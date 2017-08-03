@@ -64,6 +64,7 @@
     <Compile Include="cAFILIADOS.cs" />
     <Compile Include="cAUDITORIA.cs" />
     <Compile Include="cAUDITRIA_TURNOS.cs" />
+    <Compile Include="cDEUDAS.cs" />
     <Compile Include="cDOCUMENTOS.cs" />
     <Compile Include="cDATOSEMPRESA.cs" />
     <Compile Include="cDEBITAR.cs" />
@@ -80,6 +81,7 @@
     <Compile Include="cPLANES.cs" />
     <Compile Include="cPRODUCTOS.cs" />
     <Compile Include="cSERVICIOS.cs" />
+    <Compile Include="cTARJETAS.cs" />
     <Compile Include="cTURNOS.cs" />
     <Compile Include="cUSUARIOS.cs" />
     <Compile Include="funciones_compartidas.cs" />

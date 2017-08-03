@@ -199,6 +199,7 @@
             this.Name = "FrmGESTIONTURNOS";
             this.Text = ".:: GESTIÓN DE TURNOS ::.";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.FrmGESTIONTURNOS_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DGVTurnos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
