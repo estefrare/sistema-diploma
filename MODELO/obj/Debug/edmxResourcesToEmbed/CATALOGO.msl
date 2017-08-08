@@ -291,7 +291,6 @@
           <ScalarProperty Name="Importe" ColumnName="Importe" />
           <ScalarProperty Name="Fecha" ColumnName="Fecha" />
           <ScalarProperty Name="Nro_Recibo_Compra" ColumnName="Nro_Recibo_Compra" />
-          <ScalarProperty Name="IdEstadoReciboCompra" ColumnName="IdEstadoReciboCompra" />
           <ScalarProperty Name="Proveedor" ColumnName="Proveedor" />
         </MappingFragment>
       </EntityTypeMapping>

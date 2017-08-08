@@ -2,7 +2,7 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
--- Date Created: 08/07/2017 21:29:29
+-- Date Created: 08/08/2017 00:42:12
 -- Generated from EDMX file: C:\Users\Esteban\Desktop\SistemaCampo\MODELO\CATALOGO.edmx
 -- --------------------------------------------------
 
@@ -89,6 +89,12 @@ GO
 IF OBJECT_ID(N'[dbo].[FK_AFILIADORECIBO]', 'F') IS NOT NULL
     ALTER TABLE [dbo].[RECIBOS] DROP CONSTRAINT [FK_AFILIADORECIBO];
 GO
+IF OBJECT_ID(N'[dbo].[FK_RECIBO_COMPRADETALLE_RECIBO_COMPRA]', 'F') IS NOT NULL
+    ALTER TABLE [dbo].[DETALLE_RECIBO_COMPRA] DROP CONSTRAINT [FK_RECIBO_COMPRADETALLE_RECIBO_COMPRA];
+GO
+IF OBJECT_ID(N'[dbo].[FK_PRODUCTODETALLE_RECIBO_COMPRA]', 'F') IS NOT NULL
+    ALTER TABLE [dbo].[DETALLE_RECIBO_COMPRA] DROP CONSTRAINT [FK_PRODUCTODETALLE_RECIBO_COMPRA];
+GO
 
 -- --------------------------------------------------
 -- Dropping existing tables
@@ -174,6 +180,9 @@ IF OBJECT_ID(N'[dbo].[DETALLES_RECIBOS]', 'U') IS NOT NULL
 GO
 IF OBJECT_ID(N'[dbo].[RECIBO_COMPRA]', 'U') IS NOT NULL
     DROP TABLE [dbo].[RECIBO_COMPRA];
+GO
+IF OBJECT_ID(N'[dbo].[DETALLE_RECIBO_COMPRA]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[DETALLE_RECIBO_COMPRA];
 GO
 IF OBJECT_ID(N'[dbo].[USUARIOGRUPO]', 'U') IS NOT NULL
     DROP TABLE [dbo].[USUARIOGRUPO];
@@ -470,7 +479,6 @@ CREATE TABLE [dbo].[RECIBO_COMPRA] (
     [Importe] decimal(18,0)  NOT NULL,
     [Fecha] datetime  NOT NULL,
     [Nro_Recibo_Compra] int  NOT NULL,
-    [IdEstadoReciboCompra] int  NOT NULL,
     [Proveedor] nvarchar(max)  NOT NULL
 );
 GO

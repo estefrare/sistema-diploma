@@ -41,7 +41,7 @@ namespace MODELO
         {
             foreach (DETALLE_FACTURA det in DETALLE_FACTURA)
             {
-                det.PRODUCTO.ActualizaStock(det.Cantidad);
+                det.PRODUCTO.ActualizaStock(det.Cantidad, "DISMINUIR");
             }
         }
     }

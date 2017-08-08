@@ -23,7 +23,6 @@ namespace MODELO
         public decimal Importe { get; set; }
         public System.DateTime Fecha { get; set; }
         public int Nro_Recibo_Compra { get; set; }
-        public int IdEstadoReciboCompra { get; set; }
         public string Proveedor { get; set; }
     
         public virtual ICollection<DETALLE_RECIBO_COMPRA> DETALLE_RECIBO_COMPRA { get; set; }

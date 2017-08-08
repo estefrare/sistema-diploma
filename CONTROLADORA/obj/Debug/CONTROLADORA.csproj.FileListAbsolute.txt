@@ -212,5 +212,3 @@ C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\EntityFramework.Sql
 C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
 C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\obj\Debug\CONTROLADORA.dll
 C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
-C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\CONTROLADORA.dll.CodeAnalysisLog.xml
-C:\Users\Esteban\Desktop\SistemaCampo\CONTROLADORA\bin\Debug\CONTROLADORA.dll.lastcodeanalysissucceeded

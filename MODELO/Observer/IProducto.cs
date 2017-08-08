@@ -8,6 +8,6 @@ namespace MODELO
 {
     interface IProducto
     {
-        void ActualizaStock(int cant);
+        void ActualizaStock(int cant, string accion);
     }
 }

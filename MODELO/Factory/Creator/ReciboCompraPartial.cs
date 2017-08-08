@@ -11,6 +11,7 @@ namespace MODELO
         public override void AgregarDetalle(Detalle det)
         {
             var deta = det as MODELO.DETALLE_RECIBO_COMPRA;
+            ActualizaStock();
             this.DETALLE_RECIBO_COMPRA.Add(deta);
         }
 
@@ -18,6 +19,15 @@ namespace MODELO
         {
             return new DETALLE_RECIBO_COMPRA();
         }
+
+        private void ActualizaStock()
+        {
+            foreach (DETALLE_RECIBO_COMPRA det in DETALLE_RECIBO_COMPRA)
+            {
+                det.PRODUCTO.ActualizaStock(det.Cantidad, "INCREMENTAR");
+            }
+        }
+
     }
 }
 

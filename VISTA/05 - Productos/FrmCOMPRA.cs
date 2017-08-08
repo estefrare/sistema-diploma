@@ -19,7 +19,7 @@ namespace VISTA
     {
         List<MODELO.PRODUCTO> listaProductos;
         CONTROLADORA.cPRODUCTOS cPRODUCTOS;
-        CONTROLADORA. cReciboCompra;
+        CONTROLADORA.cRECIBOS_COMPRA cRECIBO_COMPRA;
         //CONTROLADORA.cAFILIADOS cAFILIADOS;
         MODELO.RECIBO_COMPRA oRecibo_Compra;
         MODELO.PRODUCTO oProducto;
@@ -37,6 +37,7 @@ namespace VISTA
         {
             InitializeComponent();
             cPRODUCTOS = CONTROLADORA.cPRODUCTOS.Obtener_Instancia();
+            cRECIBO_COMPRA = CONTROLADORA.cRECIBOS_COMPRA.Obtener_Instancia();
             listaProductos = new List<MODELO.PRODUCTO>();
 
             //Autocompleta los datos del recibo de compra
@@ -95,7 +96,7 @@ namespace VISTA
             MODELO.PRODUCTO oProducto = (MODELO.PRODUCTO) dgvProductos.CurrentRow.DataBoundItem;
             decimal subTotal = 0;
 
-            //cFACTURAS.AgregarProducto(oFactura, oProducto, cantidad);
+            cRECIBO_COMPRA.AgregarProducto(oRecibo_Compra, oProducto, cantidad);
             for (int i = 1; i <= cantidad; i++)
             {
                 listaProductos.Add(oProducto);
@@ -133,7 +134,7 @@ namespace VISTA
             {
                 MODELO.PRODUCTO oProducto;
                 oProducto = cPRODUCTOS.BuscarProducto(Convert.ToInt32(dgvListaCompra.CurrentRow.Cells[0].Value));
-                crecibo_.EliminarProducto(oFactura, oProducto);
+                cRECIBO_COMPRA.EliminarProducto(oRecibo_Compra, oProducto);
                 listaProductos.Remove(listaProductos.Find(x => x.Codigo_Producto == oProducto.Codigo_Producto));
                 txtTotal.Text = Convert.ToString(TOTAL - oProducto.Precio);
             }
@@ -176,6 +177,7 @@ namespace VISTA
             //oRecibo_Compra.AFILIADO = ucAFILIADO1.AFILIADO;
             oRecibo_Compra.Fecha = DateTime.Today;
             oRecibo_Compra.Importe = TOTAL;
+            //cRECIBO_COMPRA.Agregar_Recibo_Compra(oRecibo_Compra);
             //cFACTURAS.Agregar_Factura(oRecibo_Compra);
 
             for (int k = 0; k < cantProduct; k++)

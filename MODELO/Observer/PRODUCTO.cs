@@ -8,9 +8,17 @@ namespace MODELO
 {
     public partial class PRODUCTO : IProducto
     {
-        public void ActualizaStock(int cant)
+        public void ActualizaStock(int cant, string accion)
         {
-            Stock -= cant;
+            if(accion == "INCREMENTAR")
+            {
+                Stock += cant;
+            }
+            else
+            {
+                Stock -= cant;
+            }
+            
         }
     }
 }

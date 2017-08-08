@@ -420,7 +420,6 @@
     <Property Name="Importe" Type="decimal" Nullable="false" />
     <Property Name="Fecha" Type="datetime" Nullable="false" />
     <Property Name="Nro_Recibo_Compra" Type="int" Nullable="false" />
-    <Property Name="IdEstadoReciboCompra" Type="int" Nullable="false" />
     <Property Name="Proveedor" Type="nvarchar(max)" Nullable="false" />
   </EntityType>
   <EntityType Name="DETALLE_RECIBO_COMPRA">

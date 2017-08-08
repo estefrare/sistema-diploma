@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CONTROLADORA
 {
-    class cRECIBOS_COMPRA
+    public class cRECIBOS_COMPRA
     {
         MODELO.CATALOGO oCATALOGO;
         private static cRECIBOS_COMPRA Instancia;

@@ -425,7 +425,6 @@
     <Property Name="Importe" Type="decimal" Nullable="false" />
     <Property Name="Fecha" Type="datetime" Nullable="false" />
     <Property Name="Nro_Recibo_Compra" Type="int" Nullable="false" />
-    <Property Name="IdEstadoReciboCompra" Type="int" Nullable="false" />
     <Property Name="Proveedor" Type="nvarchar(max)" Nullable="false" />
   </EntityType>
   <EntityType Name="DETALLE_RECIBO_COMPRA">
@@ -1294,7 +1293,6 @@
           <Property Name="Importe" Type="Decimal" Nullable="false" />
           <Property Name="Fecha" Type="DateTime" Nullable="false" />
           <Property Name="Nro_Recibo_Compra" Type="Int32" Nullable="false" />
-          <Property Name="IdEstadoReciboCompra" Type="Int32" Nullable="false" />
           <Property Name="Proveedor" Type="String" Nullable="false" />
           <NavigationProperty Name="DETALLE_RECIBO_COMPRA" Relationship="MODELO.RECIBO_COMPRADETALLE_RECIBO_COMPRA" FromRole="RECIBO_COMPRA" ToRole="DETALLE_RECIBO_COMPRA" />
         </EntityType>
@@ -1613,7 +1611,6 @@
           <ScalarProperty Name="Importe" ColumnName="Importe" />
           <ScalarProperty Name="Fecha" ColumnName="Fecha" />
           <ScalarProperty Name="Nro_Recibo_Compra" ColumnName="Nro_Recibo_Compra" />
-          <ScalarProperty Name="IdEstadoReciboCompra" ColumnName="IdEstadoReciboCompra" />
           <ScalarProperty Name="Proveedor" ColumnName="Proveedor" />
         </MappingFragment>
       </EntityTypeMapping>

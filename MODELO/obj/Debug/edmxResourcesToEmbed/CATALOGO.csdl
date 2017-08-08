@@ -514,7 +514,6 @@
     <Property Name="Importe" Type="Decimal" Nullable="false" />
     <Property Name="Fecha" Type="DateTime" Nullable="false" />
     <Property Name="Nro_Recibo_Compra" Type="Int32" Nullable="false" />
-    <Property Name="IdEstadoReciboCompra" Type="Int32" Nullable="false" />
     <Property Name="Proveedor" Type="String" Nullable="false" />
     <NavigationProperty Name="DETALLE_RECIBO_COMPRA" Relationship="MODELO.RECIBO_COMPRADETALLE_RECIBO_COMPRA" FromRole="RECIBO_COMPRA" ToRole="DETALLE_RECIBO_COMPRA" />
   </EntityType>
