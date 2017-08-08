@@ -111,6 +111,16 @@
       <End Role="AFILIADO" EntitySet="AFILIADOS" />
       <End Role="RECIBO" EntitySet="RECIBOS" />
     </AssociationSet>
+    <EntitySet Name="RECIBO_COMPRA" EntityType="MODELO.RECIBO_COMPRA" />
+    <EntitySet Name="DETALLE_RECIBO_COMPRA" EntityType="MODELO.DETALLE_RECIBO_COMPRA" />
+    <AssociationSet Name="RECIBO_COMPRADETALLE_RECIBO_COMPRA" Association="MODELO.RECIBO_COMPRADETALLE_RECIBO_COMPRA">
+      <End Role="RECIBO_COMPRA" EntitySet="RECIBO_COMPRA" />
+      <End Role="DETALLE_RECIBO_COMPRA" EntitySet="DETALLE_RECIBO_COMPRA" />
+    </AssociationSet>
+    <AssociationSet Name="PRODUCTODETALLE_RECIBO_COMPRA" Association="MODELO.PRODUCTODETALLE_RECIBO_COMPRA">
+      <End Role="PRODUCTO" EntitySet="PRODUCTOS" />
+      <End Role="DETALLE_RECIBO_COMPRA" EntitySet="DETALLE_RECIBO_COMPRA" />
+    </AssociationSet>
   </EntityContainer>
   <EntityType Name="USUARIO">
     <Key>
@@ -444,6 +454,7 @@
     <Property Name="Stock" Type="Int32" Nullable="false" />
     <Property Name="Stock_Minimo" Type="Int32" Nullable="false" />
     <NavigationProperty Name="DETALLE_FACTURA" Relationship="MODELO.PRODUCTODETALLE_FACTURA" FromRole="PRODUCTO" ToRole="DETALLE_FACTURA" />
+    <NavigationProperty Name="DETALLE_RECIBO_COMPRA" Relationship="MODELO.PRODUCTODETALLE_RECIBO_COMPRA" FromRole="PRODUCTO" ToRole="DETALLE_RECIBO_COMPRA" />
   </EntityType>
   <Association Name="PRODUCTODETALLE_FACTURA">
     <End Type="MODELO.PRODUCTO" Role="PRODUCTO" Multiplicity="1" />
@@ -494,5 +505,36 @@
   <Association Name="AFILIADORECIBO">
     <End Type="MODELO.AFILIADO" Role="AFILIADO" Multiplicity="0..1" />
     <End Type="MODELO.RECIBO" Role="RECIBO" Multiplicity="*" />
+  </Association>
+  <EntityType Name="RECIBO_COMPRA">
+    <Key>
+      <PropertyRef Name="Id_Recibo_Compra" />
+    </Key>
+    <Property Name="Id_Recibo_Compra" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Importe" Type="Decimal" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Nro_Recibo_Compra" Type="Int32" Nullable="false" />
+    <Property Name="IdEstadoReciboCompra" Type="Int32" Nullable="false" />
+    <Property Name="Proveedor" Type="String" Nullable="false" />
+    <NavigationProperty Name="DETALLE_RECIBO_COMPRA" Relationship="MODELO.RECIBO_COMPRADETALLE_RECIBO_COMPRA" FromRole="RECIBO_COMPRA" ToRole="DETALLE_RECIBO_COMPRA" />
+  </EntityType>
+  <EntityType Name="DETALLE_RECIBO_COMPRA">
+    <Key>
+      <PropertyRef Name="Id_Detalle_Recibo_Compra" />
+    </Key>
+    <Property Name="Id_Detalle_Recibo_Compra" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Codigo_Producto" Type="Int32" Nullable="false" />
+    <Property Name="Cantidad" Type="Int32" Nullable="false" />
+    <Property Name="Precio" Type="Decimal" Nullable="false" />
+    <NavigationProperty Name="RECIBO_COMPRA" Relationship="MODELO.RECIBO_COMPRADETALLE_RECIBO_COMPRA" FromRole="DETALLE_RECIBO_COMPRA" ToRole="RECIBO_COMPRA" />
+    <NavigationProperty Name="PRODUCTO" Relationship="MODELO.PRODUCTODETALLE_RECIBO_COMPRA" FromRole="DETALLE_RECIBO_COMPRA" ToRole="PRODUCTO" />
+  </EntityType>
+  <Association Name="RECIBO_COMPRADETALLE_RECIBO_COMPRA">
+    <End Type="MODELO.RECIBO_COMPRA" Role="RECIBO_COMPRA" Multiplicity="1" />
+    <End Type="MODELO.DETALLE_RECIBO_COMPRA" Role="DETALLE_RECIBO_COMPRA" Multiplicity="*" />
+  </Association>
+  <Association Name="PRODUCTODETALLE_RECIBO_COMPRA">
+    <End Type="MODELO.PRODUCTO" Role="PRODUCTO" Multiplicity="1" />
+    <End Type="MODELO.DETALLE_RECIBO_COMPRA" Role="DETALLE_RECIBO_COMPRA" Multiplicity="*" />
   </Association>
 </Schema>

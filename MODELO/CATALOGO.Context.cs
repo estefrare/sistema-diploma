@@ -51,5 +51,7 @@ namespace MODELO
         public virtual DbSet<TARJETA> TARJETAS { get; set; }
         public virtual DbSet<RECIBO> RECIBOS { get; set; }
         public virtual DbSet<DETALLE_RECIBO> DETALLES_RECIBOS { get; set; }
+        public virtual DbSet<RECIBO_COMPRA> RECIBO_COMPRA { get; set; }
+        public virtual DbSet<DETALLE_RECIBO_COMPRA> DETALLE_RECIBO_COMPRA { get; set; }
     }
 }

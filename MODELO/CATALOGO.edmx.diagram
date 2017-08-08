@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="d5dfe6ed6f4c44cbaea14b4fda9ae899" Name="Diagram1" ZoomLevel="70" >
+      <Diagram DiagramId="d5dfe6ed6f4c44cbaea14b4fda9ae899" Name="Diagram1" ZoomLevel="80" >
         <EntityTypeShape EntityType="MODELO.USUARIO" Width="2" PointX="0.875" PointY="0.75" />
         <EntityTypeShape EntityType="MODELO.GRUPO" Width="1.5" PointX="3.25" PointY="0.875" />
         <EntityTypeShape EntityType="MODELO.FORMULARIO" Width="1.5" PointX="3" PointY="3.5" />
@@ -48,10 +48,14 @@
         <EntityTypeShape EntityType="MODELO.TARJETA" Width="1.5" PointX="13.75" PointY="12.5" />
         <AssociationConnector Association="MODELO.AFILIADOTARJETA" />
         <EntityTypeShape EntityType="MODELO.RECIBO" Width="1.5" PointX="7.125" PointY="11.25" />
-        <EntityTypeShape EntityType="MODELO.DETALLE_RECIBO" Width="1.5" PointX="4.75" PointY="11.125" />
+        <EntityTypeShape EntityType="MODELO.DETALLE_RECIBO" Width="1.625" PointX="4.75" PointY="11.125" />
         <AssociationConnector Association="MODELO.DETALLE_RECIBODEUDA" />
         <AssociationConnector Association="MODELO.RECIBODETALLE_RECIBO" />
         <AssociationConnector Association="MODELO.AFILIADORECIBO" />
+        <EntityTypeShape EntityType="MODELO.RECIBO_COMPRA" Width="1.875" PointX="19.75" PointY="7.5" />
+        <EntityTypeShape EntityType="MODELO.DETALLE_RECIBO_COMPRA" Width="2.75" PointX="19.75" PointY="10.875" />
+        <AssociationConnector Association="MODELO.RECIBO_COMPRADETALLE_RECIBO_COMPRA" />
+        <AssociationConnector Association="MODELO.PRODUCTODETALLE_RECIBO_COMPRA" />
         </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

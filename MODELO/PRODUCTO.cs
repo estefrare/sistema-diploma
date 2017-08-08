@@ -17,6 +17,7 @@ namespace MODELO
         public PRODUCTO()
         {
             this.DETALLE_FACTURA = new HashSet<DETALLE_FACTURA>();
+            this.DETALLE_RECIBO_COMPRA = new HashSet<DETALLE_RECIBO_COMPRA>();
         }
     
         public int Codigo_Producto { get; set; }
@@ -27,5 +28,6 @@ namespace MODELO
         public int Stock_Minimo { get; set; }
     
         public virtual ICollection<DETALLE_FACTURA> DETALLE_FACTURA { get; set; }
+        public virtual ICollection<DETALLE_RECIBO_COMPRA> DETALLE_RECIBO_COMPRA { get; set; }
     }
 }

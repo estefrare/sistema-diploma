@@ -47,6 +47,7 @@
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnRealizar = new System.Windows.Forms.Button();
             this.btnNuevoProducto = new System.Windows.Forms.Button();
+            this.crystalReportViewer2 = new CrystalDecisions.Windows.Forms.CrystalReportViewer();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaCompra)).BeginInit();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProductos)).BeginInit();
@@ -253,12 +254,25 @@
             this.btnNuevoProducto.UseVisualStyleBackColor = true;
             this.btnNuevoProducto.Click += new System.EventHandler(this.btnNuevoProducto_Click);
             // 
+            // crystalReportViewer2
+            // 
+            this.crystalReportViewer2.ActiveViewIndex = -1;
+            this.crystalReportViewer2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.crystalReportViewer2.Cursor = System.Windows.Forms.Cursors.Default;
+            this.crystalReportViewer2.Location = new System.Drawing.Point(854, 391);
+            this.crystalReportViewer2.Name = "crystalReportViewer2";
+            this.crystalReportViewer2.Size = new System.Drawing.Size(94, 88);
+            this.crystalReportViewer2.TabIndex = 85;
+            this.crystalReportViewer2.ToolPanelView = CrystalDecisions.Windows.Forms.ToolPanelViewType.None;
+            this.crystalReportViewer2.Visible = false;
+            // 
             // FrmCOMPRA
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(958, 701);
+            this.Controls.Add(this.crystalReportViewer2);
             this.Controls.Add(this.crystalReportViewer1);
             this.Controls.Add(this.dgvListaCompra);
             this.Controls.Add(this.label2);
@@ -306,5 +320,6 @@
         private System.Windows.Forms.Button btnRealizar;
         private System.Windows.Forms.DataGridView dgvProductos;
         private System.Windows.Forms.Button btnNuevoProducto;
+        private CrystalDecisions.Windows.Forms.CrystalReportViewer crystalReportViewer2;
     }
 }

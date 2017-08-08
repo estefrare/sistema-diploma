@@ -27,6 +27,8 @@
     <EntitySet Name="TARJETAS" EntityType="MODELO.Store.TARJETAS" store:Type="Tables" Schema="dbo" />
     <EntitySet Name="RECIBOS" EntityType="MODELO.Store.RECIBOS" store:Type="Tables" Schema="dbo" />
     <EntitySet Name="DETALLES_RECIBOS" EntityType="MODELO.Store.DETALLES_RECIBOS" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RECIBO_COMPRA" EntityType="MODELO.Store.RECIBO_COMPRA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DETALLE_RECIBO_COMPRA" EntityType="MODELO.Store.DETALLE_RECIBO_COMPRA" store:Type="Tables" Schema="dbo" />
     <EntitySet Name="USUARIOGRUPO" EntityType="MODELO.Store.USUARIOGRUPO" store:Type="Tables" Schema="dbo" />
     <EntitySet Name="GRUPOACCION" EntityType="MODELO.Store.GRUPOACCION" store:Type="Tables" Schema="dbo" />
     <EntitySet Name="PLANSERVICIO" EntityType="MODELO.Store.PLANSERVICIO" store:Type="Tables" Schema="dbo" />
@@ -125,6 +127,14 @@
     <AssociationSet Name="AFILIADORECIBO" Association="MODELO.Store.AFILIADORECIBO">
       <End Role="AFILIADO" EntitySet="AFILIADOS" />
       <End Role="RECIBO" EntitySet="RECIBOS" />
+    </AssociationSet>
+    <AssociationSet Name="RECIBO_COMPRADETALLE_RECIBO_COMPRA" Association="MODELO.Store.RECIBO_COMPRADETALLE_RECIBO_COMPRA">
+      <End Role="RECIBO_COMPRA" EntitySet="RECIBO_COMPRA" />
+      <End Role="DETALLE_RECIBO_COMPRA" EntitySet="DETALLE_RECIBO_COMPRA" />
+    </AssociationSet>
+    <AssociationSet Name="PRODUCTODETALLE_RECIBO_COMPRA" Association="MODELO.Store.PRODUCTODETALLE_RECIBO_COMPRA">
+      <End Role="PRODUCTO" EntitySet="PRODUCTOS" />
+      <End Role="DETALLE_RECIBO_COMPRA" EntitySet="DETALLE_RECIBO_COMPRA" />
     </AssociationSet>
   </EntityContainer>
   <EntityType Name="USUARIOS">
@@ -402,6 +412,28 @@
     <Property Name="Importe" Type="decimal" Nullable="false" />
     <Property Name="RECIBO_Id_Recibo" Type="int" Nullable="false" />
   </EntityType>
+  <EntityType Name="RECIBO_COMPRA">
+    <Key>
+      <PropertyRef Name="Id_Recibo_Compra" />
+    </Key>
+    <Property Name="Id_Recibo_Compra" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Importe" Type="decimal" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="Nro_Recibo_Compra" Type="int" Nullable="false" />
+    <Property Name="IdEstadoReciboCompra" Type="int" Nullable="false" />
+    <Property Name="Proveedor" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DETALLE_RECIBO_COMPRA">
+    <Key>
+      <PropertyRef Name="Id_Detalle_Recibo_Compra" />
+    </Key>
+    <Property Name="Id_Detalle_Recibo_Compra" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo_Producto" Type="int" Nullable="false" />
+    <Property Name="Cantidad" Type="int" Nullable="false" />
+    <Property Name="Precio" Type="decimal" Nullable="false" />
+    <Property Name="RECIBO_COMPRA_Id_Recibo_Compra" Type="int" Nullable="false" />
+    <Property Name="PRODUCTO_Codigo_Producto" Type="int" Nullable="false" />
+  </EntityType>
   <EntityType Name="USUARIOGRUPO">
     <Key>
       <PropertyRef Name="USUARIO_CODIGO" />
@@ -639,6 +671,30 @@
       </Principal>
       <Dependent Role="RECIBO">
         <PropertyRef Name="AFILIADO_Id_Afiliado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="RECIBO_COMPRADETALLE_RECIBO_COMPRA">
+    <End Role="RECIBO_COMPRA" Type="MODELO.Store.RECIBO_COMPRA" Multiplicity="1" />
+    <End Role="DETALLE_RECIBO_COMPRA" Type="MODELO.Store.DETALLE_RECIBO_COMPRA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RECIBO_COMPRA">
+        <PropertyRef Name="Id_Recibo_Compra" />
+      </Principal>
+      <Dependent Role="DETALLE_RECIBO_COMPRA">
+        <PropertyRef Name="RECIBO_COMPRA_Id_Recibo_Compra" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PRODUCTODETALLE_RECIBO_COMPRA">
+    <End Role="PRODUCTO" Type="MODELO.Store.PRODUCTOS" Multiplicity="1" />
+    <End Role="DETALLE_RECIBO_COMPRA" Type="MODELO.Store.DETALLE_RECIBO_COMPRA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRODUCTO">
+        <PropertyRef Name="Codigo_Producto" />
+      </Principal>
+      <Dependent Role="DETALLE_RECIBO_COMPRA">
+        <PropertyRef Name="PRODUCTO_Codigo_Producto" />
       </Dependent>
     </ReferentialConstraint>
   </Association>

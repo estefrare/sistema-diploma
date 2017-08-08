@@ -37,13 +37,13 @@ namespace CONTROLADORA
             {
                 MODELO.DETALLE_RECIBO oDetalle_Recibo = miRecibo.DETALLE_RECIBO.First();
                 miRecibo.DETALLE_RECIBO.Remove(oDetalle_Recibo);
-                oDetalle_Recibo.DEUDAS.Add(miDeuda); 
+                oDetalle_Recibo.DEUDAS.Add(miDeuda);
                 oDetalle_Recibo.Importe += miDeuda.Monto;
                 miRecibo.DETALLE_RECIBO.Add(oDetalle_Recibo);
             }
         }
 
-        public void AgregarRecibo (MODELO.RECIBO oRecibo)
+        public void AgregarRecibo(MODELO.RECIBO oRecibo)
         {
             oCATALOGO.RECIBOS.Add(oRecibo);
             oCATALOGO.SaveChanges();

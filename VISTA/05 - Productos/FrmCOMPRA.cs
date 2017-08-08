@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CrystalDecisions.CrystalReports.Engine;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace VISTA
 {
@@ -17,11 +19,12 @@ namespace VISTA
     {
         List<MODELO.PRODUCTO> listaProductos;
         CONTROLADORA.cPRODUCTOS cPRODUCTOS;
-        //CONTROLADORA.cFACTURAS cFACTURAS;
+        CONTROLADORA. cReciboCompra;
         //CONTROLADORA.cAFILIADOS cAFILIADOS;
-        //MODELO.FACTURA oFactura;
+        MODELO.RECIBO_COMPRA oRecibo_Compra;
         MODELO.PRODUCTO oProducto;
         decimal TOTAL = 0;
+        string rutaProyecto;
 
         private static FrmCOMPRA Instancia;
         public static FrmCOMPRA obtener_instancia(MODELO.USUARIO oUSUARIO)
@@ -35,6 +38,17 @@ namespace VISTA
             InitializeComponent();
             cPRODUCTOS = CONTROLADORA.cPRODUCTOS.Obtener_Instancia();
             listaProductos = new List<MODELO.PRODUCTO>();
+
+            //Autocompleta los datos del recibo de compra
+            //mtbFecha.Text = DateTime.Today.ToString();
+            oRecibo_Compra = new MODELO.RECIBO_COMPRA();
+            oRecibo_Compra.Nro_Recibo_Compra = oRecibo_Compra.Id_Recibo_Compra + 100;
+            //txtNumeroFactura.Text = oRecibo_Compra.Nro_Recibo_Compra.ToString();
+            oRecibo_Compra.Importe = 0;
+
+            //Ruta de la carpeta del proyecto: [...]/SISTEMA/
+            rutaProyecto = Directory.GetCurrentDirectory().Substring(0, Directory.GetCurrentDirectory().Length - 15);
+
             ARMA_GRILLA();
         }
 
@@ -119,7 +133,7 @@ namespace VISTA
             {
                 MODELO.PRODUCTO oProducto;
                 oProducto = cPRODUCTOS.BuscarProducto(Convert.ToInt32(dgvListaCompra.CurrentRow.Cells[0].Value));
-                //cFACTURAS.EliminarProducto(oFactura, oProducto);
+                crecibo_.EliminarProducto(oFactura, oProducto);
                 listaProductos.Remove(listaProductos.Find(x => x.Codigo_Producto == oProducto.Codigo_Producto));
                 txtTotal.Text = Convert.ToString(TOTAL - oProducto.Precio);
             }
@@ -159,13 +173,55 @@ namespace VISTA
 
             int cantProduct = listaProductos.Count();
             MODELO.PRODUCTO oProductoCompra;
+            //oRecibo_Compra.AFILIADO = ucAFILIADO1.AFILIADO;
+            oRecibo_Compra.Fecha = DateTime.Today;
+            oRecibo_Compra.Importe = TOTAL;
+            //cFACTURAS.Agregar_Factura(oRecibo_Compra);
+
             for (int k = 0; k < cantProduct; k++)
             {
                 oProductoCompra = listaProductos[k];
                 oProducto = cPRODUCTOS.BuscarProducto(oProductoCompra.Codigo_Producto);
                 oProducto.Stock++;
                 cPRODUCTOS.Modificar_Producto(oProducto);
-            } 
+            }
+            crystalReportViewer1.Visible = true;
+            crystalReportViewer1.Dock = DockStyle.Fill;
+            crystalReportViewer1.ShowCloseButton = true;
+            ARMA_RECIBO();
+        }
+
+        private void ARMA_RECIBO()
+        {
+            DatosRecibo DatosRecibo = new DatosRecibo();
+            int numero_detalles = oRecibo_Compra.DETALLE_RECIBO_COMPRA.Count();
+            List<MODELO.DETALLE_RECIBO_COMPRA> ListaDetallesRecibo = new List<MODELO.DETALLE_RECIBO_COMPRA>();
+            ListaDetallesRecibo = oRecibo_Compra.DETALLE_RECIBO_COMPRA.ToList();
+            DatosRecibo.Tables[1].Rows.Add
+                (new object[] {
+                        oRecibo_Compra.Nro_Recibo_Compra.ToString(),
+                        oRecibo_Compra.Fecha.ToString(),
+                        oRecibo_Compra.Importe.ToString(),
+                        "Adobe", //oRecibo_Compra.Proveedor
+                        "38240915" //oRecibo_Compra.AFILIADO.DNI.ToString()
+                 });
+
+            for (int k = 0; k < numero_detalles; k++)
+            {
+                DatosRecibo.Tables[0].Rows.Add //se cargan los detalles en el dataset
+                   (new object[] {
+                        ListaDetallesRecibo[k].Id_Detalle_Recibo_Compra,
+                        ListaDetallesRecibo[k].Codigo_Producto,
+                        ListaDetallesRecibo[k].Cantidad,
+                        ListaDetallesRecibo[k].Precio,
+                        ListaDetallesRecibo[k].PRODUCTO.Descripcion,
+                        ListaDetallesRecibo[k].PRODUCTO.Marca
+                   });
+            }
+            ReportDocument oRep = new ReportDocument();
+            oRep.Load(rutaProyecto + "VISTA/ReciboCompra.rpt");
+            oRep.SetDataSource(DatosRecibo);
+            crystalReportViewer1.ReportSource = oRep; //carga el documento en el CrystalReport
         }
     }
 }

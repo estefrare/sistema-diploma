@@ -2,8 +2,8 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
--- Date Created: 06/28/2017 20:24:03
--- Generated from EDMX file: C:\Users\Esteban\Google Drive\Facultad\3er año\Primer Cuatrimestre\Trabajo de campo\Trabajo de Campo\Trabajo presenado 10-08-2016\Programacion\SISTEMA\MODELO\CATALOGO.edmx
+-- Date Created: 08/07/2017 21:29:29
+-- Generated from EDMX file: C:\Users\Esteban\Desktop\SistemaCampo\MODELO\CATALOGO.edmx
 -- --------------------------------------------------
 
 SET QUOTED_IDENTIFIER OFF;
@@ -171,6 +171,9 @@ IF OBJECT_ID(N'[dbo].[RECIBOS]', 'U') IS NOT NULL
 GO
 IF OBJECT_ID(N'[dbo].[DETALLES_RECIBOS]', 'U') IS NOT NULL
     DROP TABLE [dbo].[DETALLES_RECIBOS];
+GO
+IF OBJECT_ID(N'[dbo].[RECIBO_COMPRA]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[RECIBO_COMPRA];
 GO
 IF OBJECT_ID(N'[dbo].[USUARIOGRUPO]', 'U') IS NOT NULL
     DROP TABLE [dbo].[USUARIOGRUPO];
@@ -461,6 +464,28 @@ CREATE TABLE [dbo].[DETALLES_RECIBOS] (
 );
 GO
 
+-- Creating table 'RECIBO_COMPRA'
+CREATE TABLE [dbo].[RECIBO_COMPRA] (
+    [Id_Recibo_Compra] int IDENTITY(1,1) NOT NULL,
+    [Importe] decimal(18,0)  NOT NULL,
+    [Fecha] datetime  NOT NULL,
+    [Nro_Recibo_Compra] int  NOT NULL,
+    [IdEstadoReciboCompra] int  NOT NULL,
+    [Proveedor] nvarchar(max)  NOT NULL
+);
+GO
+
+-- Creating table 'DETALLE_RECIBO_COMPRA'
+CREATE TABLE [dbo].[DETALLE_RECIBO_COMPRA] (
+    [Id_Detalle_Recibo_Compra] int IDENTITY(1,1) NOT NULL,
+    [Codigo_Producto] int  NOT NULL,
+    [Cantidad] int  NOT NULL,
+    [Precio] decimal(18,0)  NOT NULL,
+    [RECIBO_COMPRA_Id_Recibo_Compra] int  NOT NULL,
+    [PRODUCTO_Codigo_Producto] int  NOT NULL
+);
+GO
+
 -- Creating table 'USUARIOGRUPO'
 CREATE TABLE [dbo].[USUARIOGRUPO] (
     [USUARIO_CODIGO] int  NOT NULL,
@@ -640,6 +665,18 @@ GO
 ALTER TABLE [dbo].[DETALLES_RECIBOS]
 ADD CONSTRAINT [PK_DETALLES_RECIBOS]
     PRIMARY KEY CLUSTERED ([Id_Detalle_Recibo] ASC);
+GO
+
+-- Creating primary key on [Id_Recibo_Compra] in table 'RECIBO_COMPRA'
+ALTER TABLE [dbo].[RECIBO_COMPRA]
+ADD CONSTRAINT [PK_RECIBO_COMPRA]
+    PRIMARY KEY CLUSTERED ([Id_Recibo_Compra] ASC);
+GO
+
+-- Creating primary key on [Id_Detalle_Recibo_Compra] in table 'DETALLE_RECIBO_COMPRA'
+ALTER TABLE [dbo].[DETALLE_RECIBO_COMPRA]
+ADD CONSTRAINT [PK_DETALLE_RECIBO_COMPRA]
+    PRIMARY KEY CLUSTERED ([Id_Detalle_Recibo_Compra] ASC);
 GO
 
 -- Creating primary key on [USUARIO_CODIGO], [GRUPO_CODIGO] in table 'USUARIOGRUPO'
@@ -1004,6 +1041,36 @@ GO
 CREATE INDEX [IX_FK_AFILIADORECIBO]
 ON [dbo].[RECIBOS]
     ([AFILIADO_Id_Afiliado]);
+GO
+
+-- Creating foreign key on [RECIBO_COMPRA_Id_Recibo_Compra] in table 'DETALLE_RECIBO_COMPRA'
+ALTER TABLE [dbo].[DETALLE_RECIBO_COMPRA]
+ADD CONSTRAINT [FK_RECIBO_COMPRADETALLE_RECIBO_COMPRA]
+    FOREIGN KEY ([RECIBO_COMPRA_Id_Recibo_Compra])
+    REFERENCES [dbo].[RECIBO_COMPRA]
+        ([Id_Recibo_Compra])
+    ON DELETE NO ACTION ON UPDATE NO ACTION;
+GO
+
+-- Creating non-clustered index for FOREIGN KEY 'FK_RECIBO_COMPRADETALLE_RECIBO_COMPRA'
+CREATE INDEX [IX_FK_RECIBO_COMPRADETALLE_RECIBO_COMPRA]
+ON [dbo].[DETALLE_RECIBO_COMPRA]
+    ([RECIBO_COMPRA_Id_Recibo_Compra]);
+GO
+
+-- Creating foreign key on [PRODUCTO_Codigo_Producto] in table 'DETALLE_RECIBO_COMPRA'
+ALTER TABLE [dbo].[DETALLE_RECIBO_COMPRA]
+ADD CONSTRAINT [FK_PRODUCTODETALLE_RECIBO_COMPRA]
+    FOREIGN KEY ([PRODUCTO_Codigo_Producto])
+    REFERENCES [dbo].[PRODUCTOS]
+        ([Codigo_Producto])
+    ON DELETE NO ACTION ON UPDATE NO ACTION;
+GO
+
+-- Creating non-clustered index for FOREIGN KEY 'FK_PRODUCTODETALLE_RECIBO_COMPRA'
+CREATE INDEX [IX_FK_PRODUCTODETALLE_RECIBO_COMPRA]
+ON [dbo].[DETALLE_RECIBO_COMPRA]
+    ([PRODUCTO_Codigo_Producto]);
 GO
 
 -- --------------------------------------------------

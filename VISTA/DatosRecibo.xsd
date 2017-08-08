@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DatosRecibo" targetNamespace="http://tempuri.org/DatosRecibo.xsd" xmlns:mstns="http://tempuri.org/DatosRecibo.xsd" xmlns="http://tempuri.org/DatosRecibo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DatosRecibo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DatosRecibo" msprop:Generator_UserDSName="DatosRecibo">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Detalle" msprop:Generator_TableClassName="DetalleDataTable" msprop:Generator_TableVarName="tableDetalle" msprop:Generator_TablePropName="Detalle" msprop:Generator_RowDeletingName="DetalleRowDeleting" msprop:Generator_RowChangingName="DetalleRowChanging" msprop:Generator_RowEvHandlerName="DetalleRowChangeEventHandler" msprop:Generator_RowDeletedName="DetalleRowDeleted" msprop:Generator_UserTableName="Detalle" msprop:Generator_RowChangedName="DetalleRowChanged" msprop:Generator_RowEvArgName="DetalleRowChangeEvent" msprop:Generator_RowClassName="DetalleRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id_Detalle_Recibo" msdata:Caption="Id_Detalle_Factura" msprop:Generator_ColumnVarNameInTable="columnId_Detalle_Recibo" msprop:Generator_ColumnPropNameInRow="Id_Detalle_Recibo" msprop:Generator_ColumnPropNameInTable="Id_Detalle_ReciboColumn" msprop:Generator_UserColumnName="Id_Detalle_Recibo" type="xs:string" minOccurs="0" />
+              <xs:element name="Cod_Producto" msprop:Generator_ColumnVarNameInTable="columnCod_Producto" msprop:Generator_ColumnPropNameInRow="Cod_Producto" msprop:Generator_ColumnPropNameInTable="Cod_ProductoColumn" msprop:Generator_UserColumnName="Cod_Producto" type="xs:string" minOccurs="0" />
+              <xs:element name="Cantidad" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_UserColumnName="Cantidad" type="xs:string" minOccurs="0" />
+              <xs:element name="Precio" msprop:Generator_ColumnVarNameInTable="columnPrecio" msprop:Generator_ColumnPropNameInRow="Precio" msprop:Generator_ColumnPropNameInTable="PrecioColumn" msprop:Generator_UserColumnName="Precio" type="xs:string" minOccurs="0" />
+              <xs:element name="Descripcion" msprop:Generator_ColumnVarNameInTable="columnDescripcion" msprop:Generator_ColumnPropNameInRow="Descripcion" msprop:Generator_ColumnPropNameInTable="DescripcionColumn" msprop:Generator_UserColumnName="Descripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="Marca" msprop:Generator_ColumnVarNameInTable="columnMarca" msprop:Generator_ColumnPropNameInRow="Marca" msprop:Generator_ColumnPropNameInTable="MarcaColumn" msprop:Generator_UserColumnName="Marca" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Recibo" msprop:Generator_TableClassName="ReciboDataTable" msprop:Generator_TableVarName="tableRecibo" msprop:Generator_TablePropName="Recibo" msprop:Generator_RowDeletingName="ReciboRowDeleting" msprop:Generator_RowChangingName="ReciboRowChanging" msprop:Generator_RowEvHandlerName="ReciboRowChangeEventHandler" msprop:Generator_RowDeletedName="ReciboRowDeleted" msprop:Generator_UserTableName="Recibo" msprop:Generator_RowChangedName="ReciboRowChanged" msprop:Generator_RowEvArgName="ReciboRowChangeEvent" msprop:Generator_RowClassName="ReciboRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nro_Recibo" msdata:Caption="Nro_Factura" msprop:Generator_ColumnVarNameInTable="columnNro_Recibo" msprop:Generator_ColumnPropNameInRow="Nro_Recibo" msprop:Generator_ColumnPropNameInTable="Nro_ReciboColumn" msprop:Generator_UserColumnName="Nro_Recibo" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha" msprop:Generator_ColumnVarNameInTable="columnFecha" msprop:Generator_ColumnPropNameInRow="Fecha" msprop:Generator_ColumnPropNameInTable="FechaColumn" msprop:Generator_UserColumnName="Fecha" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:string" minOccurs="0" />
+              <xs:element name="NombreProveedor" msdata:Caption="NombreAfiliado" msprop:Generator_ColumnVarNameInTable="columnNombreProveedor" msprop:Generator_ColumnPropNameInRow="NombreProveedor" msprop:Generator_ColumnPropNameInTable="NombreProveedorColumn" msprop:Generator_UserColumnName="NombreProveedor" type="xs:string" minOccurs="0" />
+              <xs:element name="DniProveedor" msdata:Caption="DniAfliado" msprop:Generator_ColumnVarNameInTable="columnDniProveedor" msprop:Generator_ColumnPropNameInRow="DniProveedor" msprop:Generator_ColumnPropNameInTable="DniProveedorColumn" msprop:Generator_UserColumnName="DniProveedor" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DetalleKey1">
+      <xs:selector xpath=".//mstns:Detalle" />
+      <xs:field xpath="mstns:Id_Detalle_Recibo" />
+    </xs:unique>
+    <xs:unique name="FacturaKey1">
+      <xs:selector xpath=".//mstns:Recibo" />
+      <xs:field xpath="mstns:Nro_Recibo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

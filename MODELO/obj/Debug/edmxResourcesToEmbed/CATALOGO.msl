@@ -284,6 +284,28 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="RECIBO_COMPRA">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.RECIBO_COMPRA)">
+        <MappingFragment StoreEntitySet="RECIBO_COMPRA">
+          <ScalarProperty Name="Id_Recibo_Compra" ColumnName="Id_Recibo_Compra" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Nro_Recibo_Compra" ColumnName="Nro_Recibo_Compra" />
+          <ScalarProperty Name="IdEstadoReciboCompra" ColumnName="IdEstadoReciboCompra" />
+          <ScalarProperty Name="Proveedor" ColumnName="Proveedor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DETALLE_RECIBO_COMPRA">
+      <EntityTypeMapping TypeName="IsTypeOf(MODELO.DETALLE_RECIBO_COMPRA)">
+        <MappingFragment StoreEntitySet="DETALLE_RECIBO_COMPRA">
+          <ScalarProperty Name="Id_Detalle_Recibo_Compra" ColumnName="Id_Detalle_Recibo_Compra" />
+          <ScalarProperty Name="Codigo_Producto" ColumnName="Codigo_Producto" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
     <AssociationSetMapping Name="MODULOSUBMODULO" TypeName="MODELO.MODULOSUBMODULO" StoreEntitySet="SUBMODULOS">
       <EndProperty Name="MODULO">
         <ScalarProperty Name="CODIGO" ColumnName="MODULO_CODIGO" />
@@ -453,6 +475,22 @@
         <ScalarProperty Name="Id_Recibo" ColumnName="Id_Recibo" />
       </EndProperty>
       <Condition ColumnName="AFILIADO_Id_Afiliado" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="RECIBO_COMPRADETALLE_RECIBO_COMPRA" TypeName="MODELO.RECIBO_COMPRADETALLE_RECIBO_COMPRA" StoreEntitySet="DETALLE_RECIBO_COMPRA">
+      <EndProperty Name="RECIBO_COMPRA">
+        <ScalarProperty Name="Id_Recibo_Compra" ColumnName="RECIBO_COMPRA_Id_Recibo_Compra" />
+      </EndProperty>
+      <EndProperty Name="DETALLE_RECIBO_COMPRA">
+        <ScalarProperty Name="Id_Detalle_Recibo_Compra" ColumnName="Id_Detalle_Recibo_Compra" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="PRODUCTODETALLE_RECIBO_COMPRA" TypeName="MODELO.PRODUCTODETALLE_RECIBO_COMPRA" StoreEntitySet="DETALLE_RECIBO_COMPRA">
+      <EndProperty Name="PRODUCTO">
+        <ScalarProperty Name="Codigo_Producto" ColumnName="PRODUCTO_Codigo_Producto" />
+      </EndProperty>
+      <EndProperty Name="DETALLE_RECIBO_COMPRA">
+        <ScalarProperty Name="Id_Detalle_Recibo_Compra" ColumnName="Id_Detalle_Recibo_Compra" />
+      </EndProperty>
     </AssociationSetMapping>
   </EntityContainerMapping>
 </Mapping>

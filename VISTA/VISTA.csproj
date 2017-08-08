@@ -91,6 +91,14 @@
     <Compile Include="05 - Productos\FrmPRODUCTO.Designer.cs">
       <DependentUpon>FrmPRODUCTO.cs</DependentUpon>
     </Compile>
+    <Compile Include="DatosRecibo.cs">
+      <DependentUpon>DatosRecibo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DatosRecibo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatosRecibo.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Recibo.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -133,6 +141,12 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ListaDeudasAPagar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReciboCompra.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReciboCompra.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Seguridad\Form1.cs">
       <SubType>Form</SubType>
@@ -360,6 +374,10 @@
     <EmbeddedResource Include="07 - Medico\FrmINFORME.resx">
       <DependentUpon>FrmINFORME.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ReciboCompra.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReciboCompra.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Seguridad\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -479,6 +497,17 @@
     </None>
     <None Include="DatosFactura.xss">
       <DependentUpon>DatosFactura.xsd</DependentUpon>
+    </None>
+    <None Include="DatosRecibo.xsc">
+      <DependentUpon>DatosRecibo.xsd</DependentUpon>
+    </None>
+    <None Include="DatosRecibo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatosRecibo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DatosRecibo.xss">
+      <DependentUpon>DatosRecibo.xsd</DependentUpon>
     </None>
     <None Include="ListaDeudasAPagar.xsc">
       <DependentUpon>ListaDeudasAPagar.xsd</DependentUpon>

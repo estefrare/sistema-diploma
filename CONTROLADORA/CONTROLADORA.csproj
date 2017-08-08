@@ -80,6 +80,7 @@
     <Compile Include="cPASSWORD.cs" />
     <Compile Include="cPLANES.cs" />
     <Compile Include="cPRODUCTOS.cs" />
+    <Compile Include="cRECIBOS_COMPRA.cs" />
     <Compile Include="cSERVICIOS.cs" />
     <Compile Include="cTARJETAS.cs" />
     <Compile Include="cTURNOS.cs" />

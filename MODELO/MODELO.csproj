@@ -103,6 +103,9 @@
     <Compile Include="DETALLE_RECIBO.cs">
       <DependentUpon>CATALOGO.tt</DependentUpon>
     </Compile>
+    <Compile Include="DETALLE_RECIBO_COMPRA.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
     <Compile Include="DEUDA.cs">
       <DependentUpon>CATALOGO.tt</DependentUpon>
     </Compile>
@@ -115,8 +118,10 @@
     <Compile Include="DIA_NO_LABORABLE_MEDICO.cs">
       <DependentUpon>CATALOGO.tt</DependentUpon>
     </Compile>
+    <Compile Include="Factory\Creator\ReciboCompraPartial.cs" />
     <Compile Include="Factory\Products\Detalle.cs" />
     <Compile Include="Factory\Products\DetalleFacturaPartial.cs" />
+    <Compile Include="Factory\Products\DetalleReciboCompraPartial.cs" />
     <Compile Include="Factory\Products\DetalleReciboPartial.cs" />
     <Compile Include="Factory\Creator\Documento.cs" />
     <Compile Include="FACTURA.cs">
@@ -156,6 +161,9 @@
     <Compile Include="pUSUARIO.cs" />
     <Compile Include="Factory\Creator\ReciboPartial.cs" />
     <Compile Include="RECIBO.cs">
+      <DependentUpon>CATALOGO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RECIBO_COMPRA.cs">
       <DependentUpon>CATALOGO.tt</DependentUpon>
     </Compile>
     <Compile Include="SERVICIO.cs">

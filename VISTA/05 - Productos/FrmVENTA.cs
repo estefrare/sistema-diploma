@@ -48,7 +48,7 @@ namespace VISTA
             listaProductos = new List<MODELO.PRODUCTO>();
 
             //Autocompleta los datos de la factura
-            mtbFecha.Text = DateTime.Today.ToString(); mtbFecha.Text = DateTime.Today.ToString();
+            mtbFecha.Text = DateTime.Today.ToString();
             oFactura = new MODELO.FACTURA();
             oFactura.Nro_Factura = oFactura.Id_Factura + 100;
             txtNumeroFactura.Text = oFactura.Nro_Factura.ToString();
