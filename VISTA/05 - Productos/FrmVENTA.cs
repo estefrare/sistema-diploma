@@ -15,7 +15,9 @@ namespace VISTA
 {
     [MODELO.formulario(CLASE = "FrmVENTA", DESCRIPCION = "Venta de productos", MENU = true, MODULO = "Seguridad", SUBMODULO = "Productos")]
     [MODELO.accion(CONTROL = "btnRealizar", DESCRIPCION = "Realizar venta", FORMULARIO = "FrmVENTA")]
-
+    [MODELO.accion(CONTROL = "BtnEditarFormaPago", DESCRIPCION = "Elegir forma de pago", FORMULARIO = "FrmVENTA")]
+    [MODELO.accion(CONTROL = "btnCancelar", DESCRIPCION = "Cancelar venta", FORMULARIO = "FrmVENTA")]
+    
     public partial class FrmVENTA : Form
     {
         List<MODELO.PRODUCTO> listaProductos;

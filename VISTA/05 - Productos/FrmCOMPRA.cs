@@ -13,7 +13,9 @@ using System.IO;
 namespace VISTA
 {
     [MODELO.formulario(CLASE = "FrmCOMPRA", DESCRIPCION = "Compra de productos", MENU = true, MODULO = "Seguridad", SUBMODULO = "Productos")]
-    //[MODELO.accion(CONTROL = "btnRealizar", DESCRIPCION = "Realizar venta", FORMULARIO = "FrmCOMPRA")]
+    [MODELO.accion(CONTROL = "btnRealizar", DESCRIPCION = "Realizar compra", FORMULARIO = "FrmCOMPRA")]
+    [MODELO.accion(CONTROL = "btnNuevoProducto", DESCRIPCION = "Agregar nuevo producto", FORMULARIO = "FrmCOMPRA")]
+    [MODELO.accion(CONTROL = "btnCancelar", DESCRIPCION = "Cancelar compra", FORMULARIO = "FrmCOMPRA")]
 
     public partial class FrmCOMPRA : Form
     {
@@ -171,13 +173,19 @@ namespace VISTA
                 MessageBox.Show("Debe seleccionar al menos un producto.");
                 return;
             }
+            if (string.IsNullOrEmpty(txtProveedor.Text))
+            {
+                MessageBox.Show("Debe ingresar un proveedor.");
+                return;
+            }
 
             int cantProduct = listaProductos.Count();
             MODELO.PRODUCTO oProductoCompra;
             //oRecibo_Compra.AFILIADO = ucAFILIADO1.AFILIADO;
             oRecibo_Compra.Fecha = DateTime.Today;
             oRecibo_Compra.Importe = TOTAL;
-            //cRECIBO_COMPRA.Agregar_Recibo_Compra(oRecibo_Compra);
+            oRecibo_Compra.Proveedor = txtProveedor.Text;
+            cRECIBO_COMPRA.Agregar_Recibo_Compra(oRecibo_Compra);
             //cFACTURAS.Agregar_Factura(oRecibo_Compra);
 
             for (int k = 0; k < cantProduct; k++)
@@ -204,10 +212,10 @@ namespace VISTA
                         oRecibo_Compra.Nro_Recibo_Compra.ToString(),
                         oRecibo_Compra.Fecha.ToString(),
                         oRecibo_Compra.Importe.ToString(),
-                        "Adobe", //oRecibo_Compra.Proveedor
-                        "38240915" //oRecibo_Compra.AFILIADO.DNI.ToString()
+                        oRecibo_Compra.Proveedor.ToString(),
                  });
 
+            Random rnd = new Random();
             for (int k = 0; k < numero_detalles; k++)
             {
                 DatosRecibo.Tables[0].Rows.Add //se cargan los detalles en el dataset
@@ -224,6 +232,11 @@ namespace VISTA
             oRep.Load(rutaProyecto + "VISTA/ReciboCompra.rpt");
             oRep.SetDataSource(DatosRecibo);
             crystalReportViewer1.ReportSource = oRep; //carga el documento en el CrystalReport
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
